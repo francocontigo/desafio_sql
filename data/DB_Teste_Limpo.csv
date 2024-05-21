@@ -1,0 +1,854 @@
+Cliente;ID;Tipo;Data da Venda;Categoria;Vendedor;Regional;Duração do Contrato (Meses);Equipe;Valor
+Cliente 1;2017-0022;Serviços;02/01/2018;Novo Logo;Vendedor 1;Brasil;1;Time 1;24800.0
+Cliente 10;2018-0088;Serviços;14/02/2018;Novo Logo;Vendedor 1;Brasil;6;Time 1;302720.0
+Cliente 10;2018-0104;Serviços;13/03/2018;Upselling;Vendedor 1;Brasil;1;Time 1;51894.86
+Cliente 10;2018-0168;Serviços;30/04/2018;Upselling;Vendedor 1;Brasil;2;Time 1;51894.86
+Cliente 10;2018-0169;Serviços;30/04/2018;Upselling;Vendedor 1;Brasil;2;Time 1;51894.86
+Cliente 10;2018-0298;Serviços;12/06/2018;Upselling;Vendedor 1;Brasil;4;Time 1;138386.29
+Cliente 10;2018-0296;Serviços;20/06/2018;Upselling;Vendedor 1;Brasil;1;Time 1;51895.2
+Cliente 10;2018-0315;Serviços;10/07/2018;Upselling;Vendedor 1;Brasil;4;Time 1;145306.56
+Cliente 10;2018-0317;Serviços;13/07/2018;Upselling;Vendedor 1;Brasil;6;Time 1;395862.54
+Cliente 10;2018-0383;Serviços;20/07/2018;Upselling;Vendedor 1;Brasil;2;Time 1;69193.06
+Cliente 10;2018-0412;Serviços;22/08/2018;Upselling;Vendedor 1;Brasil;6;Time 1;415161.6
+Cliente 10;2018-0318;Serviços;22/08/2018;Upselling;Vendedor 1;Brasil;9;Time 1;622742.4
+Cliente 10;2018-0445;Serviços;31/08/2018;Upselling;Vendedor 1;Brasil;1;Time 1;34596.8
+Cliente 10;2018-0443;Serviços;31/08/2018;Upselling;Vendedor 1;Brasil;3;Time 1;77842.8
+Cliente 10;2018-0437;Serviços;19/09/2018;Upselling;Vendedor 1;Brasil;3;Time 1;114169.44
+Cliente 10;2018-0436;Serviços;19/09/2018;Upselling;Vendedor 1;Brasil;5;Time 1;380564.8
+Cliente 10;2018-0551;Serviços;13/11/2018;Upselling;Vendedor 1;Brasil;1;Time 1;75248.04
+Cliente 10;2018-0590;Serviços;27/11/2018;Upselling;Vendedor 1;Brasil;3;Time 1;108115.0
+Cliente 10;2018-0316;Serviços;13/12/2018;Upselling;Vendedor 1;Brasil;4;Time 1;145306.56
+Cliente 10;2018-0634;Serviços;17/12/2018;Upselling;Vendedor 1;Brasil;2;Time 1;176443.68
+Cliente 10;2018-0670;Serviços;20/12/2018;Upselling;Vendedor 1;Brasil;2;Time 1;36326.64
+Cliente 10;2019-0868;Serviços;13/02/2019;Upselling;Vendedor 1;Brasil;1;Time 1;36326.64
+Cliente 10;2019-0902;Serviços;15/02/2019;Upselling;Vendedor 1;Brasil;3;Time 1;98600.88
+Cliente 10;2019-1143;Serviços;05/06/2019;Upselling;Vendedor 1;Brasil;1;Time 1;520489.68
+Cliente 10;2019-1625;Serviços;30/09/2019;Upselling;Vendedor 1;Brasil;3;Time 1;459488.75
+Cliente 10;2019-1896;Serviços;06/12/2019;Upselling;Vendedor 1;Brasil;6;Time 1;456677.76
+Cliente 10;2019-1705;Serviços;30/12/2019;Upselling;Vendedor 1;Brasil;3;Time 1;349075.92
+Cliente 10;2020-2039;Serviços;16/01/2020;Renovação;Vendedor 1;Brasil;1;Time 1;115493.52
+Cliente 10;2020-2113;Serviços;18/02/2020;Upselling;Vendedor 14;Brasil;1;Time 3;121975.34
+Cliente 10;2020-2161;Serviços;17/03/2020;Upselling;Vendedor 14;Brasil;1;Time 3;115001.93
+Cliente 10;2020-2162;Serviços;30/03/2020;Upselling;Vendedor 14;Brasil;1;Time 3;154178.48
+Cliente 10;2020-2233;Serviços;01/04/2020;Upselling;Vendedor 14;Brasil;3;Time 3;230040.0
+Cliente 10;2020-2234;Serviços;08/04/2020;Upselling;Vendedor 14;Brasil;1;Time 3;141696.0
+Cliente 10;2020-2175;Serviços;09/04/2020;Upselling;Vendedor 14;Brasil;3;Time 3;110592.0
+Cliente 10;2020-2341;Serviços;19/05/2020;Upselling;Vendedor 14;Brasil;3;Time 3;228338.88
+Cliente 10;2020-2398;Serviços;09/06/2020;Upselling;Vendedor 14;Brasil;2;Time 3;141846.88
+Cliente 10;2020-2401;Serviços;09/06/2020;Upselling;Vendedor 14;Brasil;4;Time 3;283693.76
+Cliente 10;2020-2399;Serviços;19/06/2020;Upselling;Vendedor 14;Brasil;5;Time 3;193742.08
+Cliente 10;2020-2337;Serviços;30/06/2020;Upselling;Vendedor 14;Brasil;3;Time 3;16433.48
+Cliente 10;2020-2471;Serviços;07/07/2020;Upselling;Vendedor 14;Brasil;5;Time 3;354617.2
+Cliente 10;2020-2605;Serviços;24/08/2020;Renovação;Vendedor 14;Brasil;4;Time 3;328320.0
+Cliente 10;2020-2583;Serviços;28/09/2020;Upselling;Vendedor 14;Brasil;1;Time 3;39996.6
+Cliente 10;2020-2594;Produtos;19/10/2020;Upselling;Vendedor 1;Brasil;36;Time 1;356400.0
+Cliente 10;2021-3488;Serviços;10/02/2021;Upselling;Vendedor 9;Brasil;11;Time 3;3487357.44
+Cliente 100;2020-2206;Produtos;15/05/2020;Novo Logo;Vendedor 13;Brasil;37;Time 3;2891561.0
+Cliente 101;2020-2319;Serviços;26/05/2020;Novo Logo;Vendedor 3;Brasil;12;Time 1;174050.0
+Cliente 101;2019-1169;Licenciamento;26/05/2020;Novo Logo;Vendedor 3;Brasil;12;Time 1;837527.0
+Cliente 102;2020-2693;Produtos;04/06/2020;Novo Logo;Vendedor 19;Brasil;3;Time 3;688500.0
+Cliente 103;2020-2394;Produtos;07/07/2020;Novo Logo;Vendedor 19;Brasil;36;Time 3;224000.0
+Cliente 104;2020-3105;Produtos;01/08/2020;Renovação;Vendedor 17;Brasil;13;Time 8;78698.51
+Cliente 105;2020-2530;Serviços;03/08/2020;Novo Logo;Vendedor 1;Brasil;2;Time 1;53104.0
+Cliente 106;2020-2567;Produtos;17/08/2020;Novo Logo;Vendedor 16;Brasil;18;Time 3;1649610.36
+Cliente 107;2020-2390;Produtos;17/08/2020;Novo Logo;Vendedor 19;Brasil;61;Time 3;483800.0
+Cliente 108;2020-3129;Produtos;18/08/2020;Novo Logo;Vendedor 13;Brasil;35;Time 3;1517436.72
+Cliente 108;2020-2418;Produtos;18/08/2020;Novo Logo;Vendedor 7;Brasil;35;Time 5;3034873.44
+Cliente 109;2020-2537;Serviços;28/08/2020;Novo Logo;Vendedor 13;Brasil;2;Time 3;49279.44
+Cliente 109;2021-3277;Produtos;08/01/2021;Cross selling;Vendedor 13;Brasil;12;Time 3;139200.0
+Cliente 109;2020-2962;Serviços;08/01/2021;Cross selling;Vendedor 13;Brasil;12;Time 3;459605.28
+Cliente 109;2021-3624;Serviços;17/03/2021;Upselling;Vendedor 13;Brasil;3;Time 3;35967.0
+Cliente 109;2021-3577;Serviços;22/03/2021;Cross selling;Vendedor 13;Brasil;12;Time 3;1229003.3
+Cliente 11;2018-0046;Serviços;27/02/2018;Novo Logo;Vendedor 3;Brasil;1;Time 1;8990.0
+Cliente 110;2020-2644;Licenciamento;31/08/2020;Novo Logo;Vendedor 12;Colombia;12;Time 10;241650.0
+Cliente 111;2020-2639;Produtos;31/08/2020;Novo Logo;Vendedor 19;Brasil;61;Time 3;626220.0
+Cliente 111;2020-2580;Produtos;31/08/2020;Novo Logo;Vendedor 19;Brasil;53;Time 3;3016440.0
+Cliente 112;2020-3080;Produtos;21/09/2020;Novo Logo;Vendedor 17;Brasil;21;Time 8;91200.0
+Cliente 113;2020-2480;Licenciamento;21/09/2020;Novo Logo;Vendedor 1;Brasil;36;Time 1;1055110.36
+Cliente 114;2020-2412;Serviços;24/09/2020;Novo Logo;Vendedor 18;Brasil;4;Time 1;100000.0
+Cliente 115;2020-2507;Produtos;24/09/2020;Novo Logo;Vendedor 18;Brasil;3;Time 1;195056.92
+Cliente 116;2020-2723;Licenciamento;25/09/2020;Novo Logo;Vendedor 8;Mexico;12;Time 9;1369162.05
+Cliente 116;2020-3155;Licenciamento;21/12/2020;Upselling;Vendedor 8;Mexico;3;Time 9;134025.16
+Cliente 116;2021-3680;Licenciamento;26/03/2021;Upselling;Vendedor 8;Mexico;3;Time 9;134025.16
+Cliente 117;2020-2634;Produtos;28/09/2020;Novo Logo;Vendedor 21;Brasil;36;Time 3;112440.0
+Cliente 118;2020-2872;Serviços;30/09/2020;Cross selling;Vendedor 3;Brasil;12;Time 1;253994.4
+Cliente 118;2020-2689;Produtos;30/09/2020;Novo Logo;Vendedor 3;Brasil;12;Time 1;3398870.55
+Cliente 119;2020-2127;Licenciamento;30/09/2020;Novo Logo;Vendedor 8;Mexico;37;Time 9;2450331.0
+Cliente 12;2018-0107;Serviços;01/03/2018;Upselling;Vendedor 1;Brasil;12;Time 1;200000.0
+Cliente 12;2018-0228;Produtos;25/07/2018;Renovação;Vendedor 1;Brasil;12;Time 1;180000.0
+Cliente 12;2018-0127;Produtos;25/07/2018;Cross selling;Vendedor 1;Brasil;12;Time 1;213832.92
+Cliente 12;2019-0889;Serviços;21/02/2019;Upselling;Vendedor 1;Brasil;12;Time 1;210140.0
+Cliente 12;2019-0849;Produtos;05/06/2019;Renovação;Vendedor 1;Brasil;6;Time 1;90000.0
+Cliente 12;2019-1314;Produtos;18/06/2019;Renovação;Vendedor 1;Brasil;6;Time 1;53458.23
+Cliente 12;2020-2071;Licenciamento;27/12/2019;Upselling;Vendedor 1;Brasil;1;Time 1;126221.01
+Cliente 12;2019-1778;Produtos;17/01/2020;Cross selling;Vendedor 14;Brasil;12;Time 3;298680.0
+Cliente 12;2018-0358;Licenciamento;29/09/2020;Renovação;Vendedor 14;Brasil;12;Time 3;535800.0
+Cliente 12;2021-3708;Serviços;25/02/2021;Cross selling;Vendedor 20;Brasil;12;Time 3;111300.0
+Cliente 12;2020-2994;Produtos;25/02/2021;Cross selling;Vendedor 20;Brasil;12;Time 3;187380.0
+Cliente 120;2020-3124;Produtos;01/10/2020;Upselling;Vendedor 17;Brasil;24;Time 8;1250.0
+Cliente 121;2020-2539;Serviços;01/10/2020;Novo Logo;Vendedor 3;Brasil;2;Time 1;29592.0
+Cliente 122;2020-2572;Serviços;01/10/2020;Novo Logo;Vendedor 3;Brasil;1;Time 1;7182.0
+Cliente 123;2020-2917;Serviços;19/10/2020;Novo Logo;Vendedor 1;Brasil;4;Time 1;332471.3
+Cliente 123;2021-3576;Serviços;11/03/2021;Upselling;Vendedor 13;Brasil;11;Time 3;1219061.58
+Cliente 124;2020-2898;Serviços;19/10/2020;Novo Logo;Vendedor 1;Brasil;12;Time 1;317832.37
+Cliente 124;2021-3541;Serviços;03/03/2021;Upselling;Vendedor 9;Brasil;12;Time 3;342720.0
+Cliente 125;2020-2648;Licenciamento;29/10/2020;Novo Logo;Vendedor 12;Colombia;12;Time 10;327570.0
+Cliente 126;2020-2980;Produtos;30/10/2020;Novo Logo;Vendedor 7;Brasil;12;Time 5;1750373.68
+Cliente 126;2020-3001;Produtos;14/12/2020;Novo Logo;Vendedor 3;Brasil;12;Time 1;268231.5
+Cliente 127;2020-2921;Serviços;09/11/2020;Novo Logo;Vendedor 20;Brasil;3;Time 3;29964.48
+Cliente 128;2020-2658;Produtos;09/11/2020;Novo Logo;Vendedor 3;Brasil;12;Time 1;130649.63
+Cliente 129;2020-2637;Produtos;16/11/2020;Novo Logo;Vendedor 7;Brasil;60;Time 5;1740000.0
+Cliente 13;2017-0023;Serviços;12/03/2018;Cross selling;Vendedor 1;Brasil;2;Time 1;67830.0
+Cliente 13;2018-0302;Licenciamento;23/07/2018;Upselling;Vendedor 1;Brasil;17;Time 1;168959.59
+Cliente 13;2018-0301;Licenciamento;23/07/2018;Upselling;Vendedor 1;Brasil;37;Time 1;1351967.23
+Cliente 13;2019-0861;Licenciamento;31/01/2019;Upselling;Vendedor 1;Brasil;30;Time 1;440551.24
+Cliente 13;2019-0881;Serviços;11/03/2019;Upselling;Vendedor 1;Brasil;7;Time 1;201696.0
+Cliente 13;2019-0910;Licenciamento;18/03/2019;Upselling;Vendedor 1;Brasil;28;Time 1;3649217.87
+Cliente 13;2019-0891;Serviços;05/04/2019;Cross selling;Vendedor 1;Brasil;7;Time 1;192001.92
+Cliente 13;2019-1277;Serviços;03/06/2019;Cross selling;Vendedor 1;Brasil;1;Time 1;143000.0
+Cliente 13;2019-1308;Serviços;03/06/2019;Upselling;Vendedor 1;Brasil;1;Time 1;237912.87
+Cliente 13;2019-1203;Serviços;04/06/2019;Upselling;Vendedor 1;Brasil;3;Time 1;133932.48
+Cliente 13;2019-1262;Serviços;07/06/2019;Upselling;Vendedor 1;Brasil;3;Time 1;101999.04
+Cliente 13;2019-1289;Licenciamento;19/06/2019;Upselling;Vendedor 1;Brasil;26;Time 1;547685.15
+Cliente 13;2019-1357;Serviços;01/08/2019;Cross selling;Vendedor 1;Brasil;1;Time 1;55366.07
+Cliente 13;2019-1568;Licenciamento;05/09/2019;Upselling;Vendedor 1;Brasil;23;Time 1;308542.94
+Cliente 13;2019-1582;Serviços;16/09/2019;Upselling;Vendedor 1;Brasil;4;Time 1;300000.0
+Cliente 13;2019-1632;Serviços;26/09/2019;Cross selling;Vendedor 1;Brasil;1;Time 1;105926.56
+Cliente 13;2019-1676;Serviços;15/10/2019;Upselling;Vendedor 1;Brasil;1;Time 1;384833.7
+Cliente 13;2020-1973;Licenciamento;31/01/2020;Renovação;Vendedor 1;Brasil;18;Time 1;186761.31
+Cliente 13;2020-2077;Licenciamento;31/01/2020;Renovação;Vendedor 13;Brasil;17;Time 3;528010.48
+Cliente 13;2020-1975;Licenciamento;31/01/2020;Renovação;Vendedor 1;Brasil;18;Time 1;1584032.12
+Cliente 13;2020-2084;Serviços;03/02/2020;Cross selling;Vendedor 13;Brasil;1;Time 3;17168.64
+Cliente 13;2020-2081;Serviços;28/02/2020;Renovação;Vendedor 13;Brasil;1;Time 3;112321.44
+Cliente 13;2020-2512;Licenciamento;24/07/2020;Renovação;Vendedor 13;Brasil;11;Time 3;529783.84
+Cliente 13;2020-2698;Licenciamento;25/09/2020;Upselling;Vendedor 13;Brasil;24;Time 3;2797378.88
+Cliente 13;2020-3153;Licenciamento;29/01/2021;Upselling;Vendedor 13;Brasil;12;Time 3;93735.36
+Cliente 13;2021-3594;Licenciamento;12/03/2021;Upselling;Vendedor 13;Brasil;12;Time 3;920035.77
+Cliente 130;2019-1389;Produtos;16/11/2020;Novo Logo;Vendedor 20;Brasil;36;Time 3;2564644.92
+Cliente 131;2020-2997;Serviços;20/11/2020;Novo Logo;Vendedor 13;Brasil;1;Time 3;31080.0
+Cliente 131;2021-3572;Serviços;02/03/2021;Upselling;Vendedor 13;Brasil;1;Time 3;4920.0
+Cliente 132;2020-3033;Produtos;01/12/2020;Novo Logo;Vendedor 17;Brasil;24;Time 8;29196.0
+Cliente 133;2020-3071;Produtos;01/12/2020;Novo Logo;Vendedor 13;Brasil;12;Time 3;100800.0
+Cliente 135;2020-3097;Produtos;11/12/2020;Novo Logo;Vendedor 17;Brasil;12;Time 8;45798.0
+Cliente 136;2020-2407;Licenciamento;11/12/2020;Novo Logo;Vendedor 8;Mexico;12;Time 9;209967.0
+Cliente 136;2020-3156;Licenciamento;23/12/2020;Novo Logo;Vendedor 8;Mexico;12;Time 9;564172.2
+Cliente 137;2020-3130;Produtos;12/12/2020;Novo Logo;Vendedor 7;Brasil;61;Time 5;534600.0
+Cliente 138;2020-3140;Produtos;14/12/2020;Novo Logo;Vendedor 3;Brasil;12;Time 1;3484000.0
+Cliente 138;2020-3144;Licenciamento;16/12/2020;Upselling;Vendedor 3;Brasil;12;Time 1;6000000.0
+Cliente 138;2021-3354;Produtos;29/01/2021;Upselling;Vendedor 3;Brasil;12;Time 1;3415203.84
+Cliente 139;2020-2624;Produtos;14/12/2020;Novo Logo;Vendedor 21;Brasil;37;Time 3;172800.0
+Cliente 14;2017-0103;Serviços;16/03/2018;Upselling;Vendedor 4;Brasil;5;Time 2;205000.0
+Cliente 14;2017-0102;Produtos;09/04/2018;Cross selling;Vendedor 4;Brasil;3;Time 2;89292.5
+Cliente 14;2018-0206;Serviços;30/04/2018;Upselling;Vendedor 4;Brasil;13;Time 2;2379999.84
+Cliente 14;2017-0128;Serviços;15/06/2018;Upselling;Vendedor 4;Brasil;12;Time 2;1330000.0
+Cliente 14;2018-0262;Produtos;23/04/2019;Upselling;Vendedor 10;Brasil;1;Time 7;300000.0
+Cliente 14;2019-1202;Produtos;17/05/2019;Cross selling;Vendedor 10;Brasil;1;Time 7;46569.0
+Cliente 14;2019-1299;Serviços;28/06/2019;Upselling;Vendedor 10;Brasil;13;Time 7;12100320.0
+Cliente 14;2019-1290;Serviços;03/07/2019;Cross selling;Vendedor 10;Brasil;2;Time 7;71000.0
+Cliente 14;2019-1615;Serviços;13/09/2019;Upselling;Vendedor 10;Brasil;2;Time 7;19880.0
+Cliente 14;2019-1347;Serviços;23/09/2019;Upselling;Vendedor 10;Brasil;12;Time 7;1472416.0
+Cliente 14;2019-1652;Serviços;27/12/2019;Cross selling;Vendedor 10;Brasil;12;Time 7;765920.0
+Cliente 14;2020-2419;Licenciamento;30/06/2020;Cross selling;Vendedor 18;Brasil;12;Time 1;93437.4
+Cliente 14;2020-2494;Serviços;12/08/2020;Cross selling;Vendedor 18;Brasil;4;Time 1;97500.0
+Cliente 14;2019-1413;Licenciamento;17/08/2020;Cross selling;Vendedor 18;Brasil;12;Time 1;1391362.64
+Cliente 14;2020-2455;Serviços;22/09/2020;Cross selling;Vendedor 18;Brasil;12;Time 1;9048490.66
+Cliente 14;2020-3008;Serviços;10/12/2020;Upselling;Vendedor 18;Brasil;6;Time 1;161280.0
+Cliente 14;2020-3069;Serviços;12/01/2021;Upselling;Vendedor 18;Brasil;12;Time 1;290016.0
+Cliente 14;2021-3286;Serviços;26/01/2021;Upselling;Vendedor 18;Brasil;12;Time 1;322560.0
+Cliente 14;2021-3204;Serviços;09/03/2021;Upselling;Vendedor 18;Brasil;12;Time 1;6707860.0
+Cliente 14;2021-3584;Serviços;14/04/2021;Cross selling;Vendedor 18;Brasil;12;Time 1;305182.08
+Cliente 14;2021-3604;Serviços;27/04/2021;Upselling;Vendedor 18;Brasil;12;Time 1;1718115.84
+Cliente 140;2020-3041;Produtos;14/12/2020;Novo Logo;Vendedor 22;Brasil;73;Time 11;606000.0
+Cliente 140;2020-3042;Produtos;14/12/2020;Novo Logo;Vendedor 22;Brasil;61;Time 11;1544000.0
+Cliente 141;2020-2884;Serviços;14/12/2020;Novo Logo;Vendedor 20;Brasil;2;Time 3;108000.0
+Cliente 142;2020-3029;Produtos;15/12/2020;Novo Logo;Vendedor 17;Brasil;24;Time 8;39200.0
+Cliente 143;2020-3034;Produtos;16/12/2020;Novo Logo;Vendedor 17;Brasil;12;Time 8;27477.0
+Cliente 144;2020-3028;Produtos;16/12/2020;Novo Logo;Vendedor 17;Brasil;12;Time 8;2500.0
+Cliente 145;2020-2211;Serviços;16/12/2020;Cross selling;Vendedor 13;Brasil;13;Time 3;585205.25
+Cliente 145;2021-3279;Produtos;16/12/2020;Novo Logo;Vendedor 13;Brasil;37;Time 3;696344.04
+Cliente 146;2020-2986;Licenciamento;29/12/2020;Novo Logo;Vendedor 12;Colombia;11;Time 10;429642.96
+Cliente 147;2020-3147;Produtos;31/12/2020;Novo Logo;Vendedor 17;Brasil;24;Time 8;30800.0
+Cliente 148;2021-3538;Produtos;12/02/2021;Novo Logo;Vendedor 24;Brasil;61;Time 11;463970.0
+Cliente 149;2021-3564;Produtos;25/02/2021;Novo Logo;Vendedor 20;Brasil;61;Time 3;144000.0
+Cliente 149;2020-3154;Produtos;25/02/2021;Novo Logo;Vendedor 20;Brasil;61;Time 3;1427952.0
+Cliente 15;2017-0005;Serviços;27/03/2018;Novo Logo;Vendedor 5;Colombia;5;Time 3;913900.0
+Cliente 15;2019-1003;Serviços;31/03/2019;Upselling;Vendedor 12;Colombia;4;Time 6;757427.76
+Cliente 15;2019-1397;Serviços;04/07/2019;Upselling;Vendedor 12;Colombia;1;Time 6;71958.0
+Cliente 15;2019-1710;Serviços;27/12/2019;Upselling;Vendedor 12;Colombia;1;Time 6;111996.72
+Cliente 150;2021-3369;Produtos;25/02/2021;Novo Logo;Vendedor 26;Brasil;61;Time 12;384000.0
+Cliente 151;2021-3303;Produtos;01/03/2021;Novo Logo;Vendedor 17;Brasil;24;Time 8;77000.0
+Cliente 152;2021-3655;Produtos;17/03/2021;Novo Logo;Vendedor 27;Brasil;61;Time 12;420000.0
+Cliente 153;2021-3282;Produtos;29/03/2021;Novo Logo;Vendedor 19;Brasil;60;Time 3;330000.0
+Cliente 154;2021-3591;Produtos;29/03/2021;Novo Logo;Vendedor 19;Brasil;37;Time 3;34920.0
+Cliente 155;2021-3280;Produtos;31/03/2021;Novo Logo;Vendedor 24;Brasil;24;Time 11;120000.0
+Cliente 156;2021-3471;Produtos;31/03/2021;Novo Logo;Vendedor 7;Brasil;22;Time 5;4775245.0
+Cliente 157;2021-3766;Produtos;31/03/2021;Novo Logo;Vendedor 7;Brasil;61;Time 5;145000.0
+Cliente 158;2019-1649;Licenciamento;26/04/2021;Novo Logo;Vendedor 12;Colombia;24;Time 10;534905.7
+Cliente 159;2021-3375;Produtos;29/04/2021;Novo Logo;Vendedor 25;Brasil;24;Time 3;30720.0
+Cliente 16;2018-0086;Produtos;04/04/2018;Upselling;Vendedor 1;Brasil;8;Time 1;231587.2
+Cliente 16;2018-0373;Produtos;28/09/2018;Cross selling;Vendedor 1;Brasil;12;Time 1;366000.0
+Cliente 16;2018-0069;Produtos;30/11/2018;Upselling;Vendedor 1;Brasil;6;Time 1;489617.84
+Cliente 16;2018-0564;Serviços;13/12/2018;Upselling;Vendedor 1;Brasil;4;Time 1;182606.34
+Cliente 16;2019-1179;Serviços;21/05/2019;Cross selling;Vendedor 1;Brasil;3;Time 1;230882.76
+Cliente 16;2019-1243;Serviços;26/06/2019;Upselling;Vendedor 1;Brasil;3;Time 1;103913.36
+Cliente 16;2018-0137;Serviços;18/09/2019;Upselling;Vendedor 1;Brasil;1;Time 1;517224.0
+Cliente 16;2019-1330;Serviços;20/09/2019;Upselling;Vendedor 1;Brasil;1;Time 1;127502.28
+Cliente 16;2019-1358;Serviços;01/10/2019;Upselling;Vendedor 1;Brasil;5;Time 1;380785.85
+Cliente 16;2019-1586;Serviços;14/10/2019;Upselling;Vendedor 1;Brasil;1;Time 1;103569.45
+Cliente 16;2019-0853;Produtos;22/11/2019;Renovação;Vendedor 1;Brasil;12;Time 1;438000.0
+Cliente 16;2019-1709;Serviços;29/11/2019;Upselling;Vendedor 1;Brasil;1;Time 1;118000.0
+Cliente 16;2019-1708;Produtos;29/11/2019;Upselling;Vendedor 1;Brasil;6;Time 1;148000.0
+Cliente 16;2019-1763;Licenciamento;13/12/2019;Cross selling;Vendedor 1;Brasil;12;Time 1;320000.0
+Cliente 16;2020-2552;Serviços;22/09/2020;Upselling;Vendedor 20;Brasil;6;Time 3;518000.0
+Cliente 16;2020-2094;Serviços;22/09/2020;Cross selling;Vendedor 20;Brasil;13;Time 3;550000.0
+Cliente 16;2020-2457;Serviços;19/10/2020;Cross selling;Vendedor 20;Brasil;3;Time 3;320000.0
+Cliente 16;2020-2460;Produtos;30/11/2020;Renovação;Vendedor 20;Brasil;12;Time 3;438000.0
+Cliente 16;2021-3705;Serviços;25/03/2021;Upselling;Vendedor 20;Brasil;2;Time 3;27936.0
+Cliente 160;2021-3843;Produtos;30/04/2021;Novo Logo;Vendedor 21;Brasil;67;Time 3;1658000.0
+Cliente 17;2018-0172;Serviços;18/04/2018;Cross selling;Vendedor 3;Brasil;1;Time 1;37710.0
+Cliente 17;2017-0135;Licenciamento;18/04/2018;Cross selling;Vendedor 3;Brasil;12;Time 1;288290.0
+Cliente 17;2018-0351;Licenciamento;24/09/2019;Renovação;Vendedor 3;Brasil;37;Time 1;1072800.0
+Cliente 18;2018-0177;Serviços;19/04/2018;Upselling;Vendedor 3;Brasil;1;Time 1;6000.0
+Cliente 19;2018-0182;Serviços;23/04/2018;Novo Logo;Vendedor 3;Brasil;1;Time 1;6720.0
+Cliente 2;2017-0026;Licenciamento;08/01/2018;Upselling;Vendedor 2;Brasil;13;Time 2;323719.72
+Cliente 2;2018-0368;Licenciamento;27/09/2018;Upselling;Vendedor 2;Brasil;12;Time 2;154000.0
+Cliente 2;2018-0547;Licenciamento;05/11/2018;Upselling;Vendedor 7;Brasil;12;Time 5;132000.0
+Cliente 2;2018-0610;Licenciamento;26/02/2019;Upselling;Vendedor 3;Brasil;12;Time 1;695000.0
+Cliente 2;2019-0932;Licenciamento;28/02/2019;Upselling;Vendedor 3;Brasil;12;Time 1;66000.0
+Cliente 2;2019-0933;Licenciamento;28/02/2019;Upselling;Vendedor 3;Brasil;12;Time 1;132000.0
+Cliente 2;2018-0631;Serviços;18/04/2019;Cross selling;Vendedor 3;Brasil;2;Time 1;295000.0
+Cliente 2;2019-1234;Licenciamento;15/05/2019;Upselling;Vendedor 3;Brasil;12;Time 1;22000.0
+Cliente 2;2019-1364;Licenciamento;01/07/2019;Upselling;Vendedor 3;Brasil;12;Time 1;22000.0
+Cliente 2;2019-1382;Licenciamento;03/07/2019;Upselling;Vendedor 3;Brasil;12;Time 1;22000.0
+Cliente 2;2019-1318;Licenciamento;03/10/2019;Upselling;Vendedor 3;Brasil;24;Time 1;4134303.11
+Cliente 2;2019-1874;Licenciamento;19/11/2019;Upselling;Vendedor 3;Brasil;12;Time 1;120612.0
+Cliente 2;2019-1682;Licenciamento;19/11/2019;Upselling;Vendedor 3;Brasil;12;Time 1;160816.0
+Cliente 2;2019-1875;Licenciamento;27/11/2019;Upselling;Vendedor 3;Brasil;12;Time 1;20102.0
+Cliente 2;2020-2724;Licenciamento;25/09/2020;Upselling;Vendedor 3;Brasil;12;Time 1;60306.0
+Cliente 2;2020-3075;Licenciamento;14/12/2020;Renovação;Vendedor 3;Brasil;13;Time 1;49844.1
+Cliente 2;2020-2899;Licenciamento;14/12/2020;Renovação;Vendedor 3;Brasil;13;Time 1;424654.8
+Cliente 2;2020-2950;Licenciamento;14/12/2020;Cross selling;Vendedor 3;Brasil;12;Time 1;616738.68
+Cliente 2;2020-2592;Licenciamento;11/01/2021;Upselling;Vendedor 3;Brasil;12;Time 1;416110.71
+Cliente 2;2021-3414;Serviços;02/02/2021;Cross selling;Vendedor 3;Brasil;12;Time 1;36800.0
+Cliente 2;2021-3418;Serviços;02/02/2021;Cross selling;Vendedor 3;Brasil;12;Time 1;51029.45
+Cliente 20;2018-0036;Serviços;30/04/2018;Novo Logo;Vendedor 1;Brasil;1;Time 1;29200.0
+Cliente 21;2018-0102;Serviços;30/04/2018;Upselling;Vendedor 3;Brasil;11;Time 1;380400.0
+Cliente 21;2020-2275;Serviços;30/04/2020;Cross selling;Vendedor 3;Brasil;12;Time 1;94331.34
+Cliente 21;2020-2274;Serviços;30/04/2020;Cross selling;Vendedor 3;Brasil;12;Time 1;1011387.74
+Cliente 21;2020-2058;Licenciamento;30/04/2020;Cross selling;Vendedor 3;Brasil;24;Time 1;5039994.61
+Cliente 21;2021-3899;Serviços;30/04/2021;Upselling;Vendedor 29;Brasil;12;Time 1;320439.68
+Cliente 21;2021-3716;Licenciamento;30/04/2021;Renovação;Vendedor 29;Brasil;37;Time 1;18192880.38
+Cliente 22;2018-0164;Produtos;30/04/2018;Novo Logo;Vendedor 1;Brasil;3;Time 1;50000.0
+Cliente 23;2017-0018;Produtos;04/05/2018;Cross selling;Vendedor 1;Brasil;7;Time 1;332463.36
+Cliente 23;2017-0209;Licenciamento;26/07/2018;Renovação;Vendedor 1;Brasil;12;Time 1;235386.18
+Cliente 23;2018-0226;Produtos;26/07/2018;Cross selling;Vendedor 1;Brasil;12;Time 1;408000.0
+Cliente 23;2018-0648;Licenciamento;26/06/2019;Renovação;Vendedor 1;Brasil;12;Time 1;235386.18
+Cliente 23;2019-0854;Produtos;28/08/2019;Renovação;Vendedor 1;Brasil;12;Time 1;360000.0
+Cliente 23;2019-1901;Serviços;16/12/2019;Cross selling;Vendedor 9;Brasil;5;Time 3;359186.94
+Cliente 23;2020-2551;Serviços;14/08/2020;Renovação;Vendedor 20;Brasil;12;Time 3;303590.4
+Cliente 23;2020-2868;Produtos;30/09/2020;Upselling;Vendedor 20;Brasil;24;Time 3;226000.0
+Cliente 24;2017-0123;Serviços;08/05/2018;Upselling;Vendedor 2;Brasil;11;Time 2;310464.0
+Cliente 24;2017-0136;Licenciamento;09/05/2018;Renovação;Vendedor 2;Brasil;12;Time 2;184824.0
+Cliente 24;2018-0384;Licenciamento;28/09/2018;Upselling;Vendedor 1;Brasil;8;Time 1;67619.11
+Cliente 24;2018-0478;Produtos;28/09/2018;Upselling;Vendedor 1;Brasil;6;Time 1;155232.0
+Cliente 24;2019-0968;Serviços;14/03/2019;Upselling;Vendedor 1;Brasil;12;Time 1;310464.0
+Cliente 24;2019-0999;Serviços;25/03/2019;Upselling;Vendedor 1;Brasil;13;Time 1;310464.0
+Cliente 24;2018-0343;Licenciamento;05/04/2019;Renovação;Vendedor 1;Brasil;12;Time 1;385335.65
+Cliente 24;2019-1297;Serviços;28/06/2019;Upselling;Vendedor 1;Brasil;12;Time 1;310464.0
+Cliente 24;2019-1580;Licenciamento;23/09/2019;Upselling;Vendedor 1;Brasil;12;Time 1;160371.66
+Cliente 24;2020-1978;Serviços;23/01/2020;Renovação;Vendedor 9;Brasil;12;Time 3;310464.0
+Cliente 24;2020-2281;Serviços;25/06/2020;Cross selling;Vendedor 9;Brasil;1;Time 3;379663.2
+Cliente 24;2020-2065;Licenciamento;25/06/2020;Renovação;Vendedor 9;Brasil;12;Time 3;1110336.08
+Cliente 24;2020-2938;Licenciamento;19/04/2021;Renovação;Vendedor 9;Brasil;1;Time 3;1440707.04
+Cliente 25;2018-0196;Licenciamento;15/05/2018;Novo Logo;Vendedor 3;Brasil;12;Time 1;18053.67
+Cliente 25;2018-0344;Licenciamento;10/05/2019;Renovação;Vendedor 3;Brasil;12;Time 1;22895.98
+Cliente 26;2018-0167;Serviços;22/05/2018;Upselling;Vendedor 6;Brasil;4;Time 3;233023.49
+Cliente 26;2018-0251;Produtos;22/05/2018;Upselling;Vendedor 6;Brasil;12;Time 3;454798.56
+Cliente 26;2017-0137;Serviços;24/05/2018;Renovação;Vendedor 4;Brasil;1;Time 2;36000.0
+Cliente 26;2018-0312;Serviços;20/06/2018;Cross selling;Vendedor 6;Brasil;1;Time 3;8990.0
+Cliente 26;2018-0256;Serviços;30/07/2018;Upselling;Vendedor 6;Brasil;2;Time 3;75799.76
+Cliente 26;2018-0426;Serviços;31/08/2018;Upselling;Vendedor 6;Brasil;13;Time 3;454798.56
+Cliente 26;2018-0526;Serviços;05/11/2018;Upselling;Vendedor 6;Brasil;2;Time 3;75799.76
+Cliente 26;2018-0577;Serviços;23/11/2018;Upselling;Vendedor 6;Brasil;3;Time 3;113699.64
+Cliente 26;2018-0449;Serviços;30/11/2018;Upselling;Vendedor 6;Brasil;2;Time 3;245970.21
+Cliente 26;2018-0581;Serviços;21/12/2018;Upselling;Vendedor 6;Brasil;1;Time 3;151599.52
+Cliente 26;2018-0481;Serviços;21/12/2018;Upselling;Vendedor 6;Brasil;10;Time 3;378998.8
+Cliente 26;2019-0887;Serviços;12/02/2019;Upselling;Vendedor 6;Brasil;3;Time 3;113699.64
+Cliente 26;2019-0693;Produtos;18/02/2019;Upselling;Vendedor 6;Brasil;3;Time 3;56849.82
+Cliente 26;2019-0884;Serviços;27/02/2019;Upselling;Vendedor 6;Brasil;1;Time 3;37899.88
+Cliente 26;2019-1337;Serviços;19/06/2019;Upselling;Vendedor 10;Brasil;7;Time 7;189499.4
+Cliente 26;2019-1393;Serviços;25/07/2019;Upselling;Vendedor 10;Brasil;12;Time 7;324499.2
+Cliente 26;2019-1637;Serviços;24/09/2019;Cross selling;Vendedor 10;Brasil;3;Time 7;113699.64
+Cliente 26;2018-0342;Licenciamento;23/10/2019;Upselling;Vendedor 10;Brasil;12;Time 7;595017.0
+Cliente 26;2019-1638;Serviços;27/11/2019;Upselling;Vendedor 10;Brasil;8;Time 7;303199.04
+Cliente 26;2019-1784;Serviços;28/11/2019;Upselling;Vendedor 10;Brasil;13;Time 7;324506.82
+Cliente 26;2019-1905;Serviços;28/02/2020;Upselling;Vendedor 18;Brasil;13;Time 1;624960.0
+Cliente 26;2020-2676;Licenciamento;22/10/2020;Upselling;Vendedor 18;Brasil;12;Time 1;703362.68
+Cliente 26;2020-2454;Serviços;02/12/2020;Cross selling;Vendedor 18;Brasil;3;Time 1;169013.97
+Cliente 26;2021-3500;Serviços;05/04/2021;Upselling;Vendedor 18;Brasil;2;Time 1;29999.5
+Cliente 26;2020-3055;Serviços;29/04/2021;Renovação;Vendedor 18;Brasil;12;Time 1;704098.56
+Cliente 27;2018-0362;Produtos;21/06/2018;Novo Logo;Vendedor 7;Brasil;6;Time 5;296000.0
+Cliente 27;2018-0471;Produtos;17/09/2018;Upselling;Vendedor 7;Brasil;6;Time 5;184000.0
+Cliente 27;2020-2109;Serviços;30/03/2020;Cross selling;Vendedor 14;Brasil;5;Time 3;70855.18
+Cliente 27;2020-2431;Serviços;24/07/2020;Cross selling;Vendedor 14;Brasil;1;Time 3;75001.48
+Cliente 28;2018-0303;Produtos;29/06/2018;Novo Logo;Vendedor 1;Brasil;24;Time 1;233600.0
+Cliente 29;2018-0397;Licenciamento;30/07/2018;Upselling;Vendedor 2;Brasil;12;Time 2;175451.01
+Cliente 29;2018-0515;Licenciamento;23/10/2018;Upselling;Vendedor 2;Brasil;12;Time 2;225579.87
+Cliente 29;2018-0635;Licenciamento;28/02/2019;Renovação;Vendedor 9;Brasil;12;Time 3;329425.17
+Cliente 3;2018-0041;Serviços;11/01/2018;Cross selling;Vendedor 2;Brasil;1;Time 2;327260.83
+Cliente 3;2018-0156;Serviços;29/03/2018;Upselling;Vendedor 4;Brasil;1;Time 2;203403.76
+Cliente 3;2018-0040;Licenciamento;29/03/2018;Cross selling;Vendedor 4;Brasil;12;Time 2;1631893.57
+Cliente 3;2018-9999;Licenciamento;28/09/2018;Renovação;Vendedor 4;Brasil;12;Time 2;5927305.0
+Cliente 3;2018-0677;Licenciamento;15/01/2019;Upselling;Vendedor 10;Brasil;33;Time 7;160519.81
+Cliente 3;2019-0873;Licenciamento;31/01/2019;Upselling;Vendedor 10;Brasil;32;Time 7;1142316.45
+Cliente 3;2019-1139;Licenciamento;18/04/2019;Upselling;Vendedor 10;Brasil;12;Time 7;129408.43
+Cliente 3;2019-1159;Licenciamento;18/04/2019;Upselling;Vendedor 10;Brasil;12;Time 7;310580.23
+Cliente 3;2019-1247;Serviços;27/05/2019;Cross selling;Vendedor 10;Brasil;1;Time 7;258249.27
+Cliente 3;2018-0430;Serviços;27/05/2019;Cross selling;Vendedor 10;Brasil;1;Time 7;274075.07
+Cliente 3;2018-0346;Licenciamento;07/08/2019;Renovação;Vendedor 10;Brasil;37;Time 7;2266667.0
+Cliente 3;2019-1478;Licenciamento;09/08/2019;Upselling;Vendedor 10;Brasil;2;Time 7;18503.55
+Cliente 3;2019-1479;Licenciamento;09/08/2019;Upselling;Vendedor 10;Brasil;12;Time 7;104272.5
+Cliente 3;2019-1480;Licenciamento;16/08/2019;Upselling;Vendedor 10;Brasil;12;Time 7;104272.5
+Cliente 3;2019-1651;Licenciamento;26/09/2019;Renovação;Vendedor 10;Brasil;12;Time 7;5927305.92
+Cliente 3;2019-1160;Licenciamento;01/10/2019;Upselling;Vendedor 10;Brasil;12;Time 7;310580.23
+Cliente 3;2019-1659;Licenciamento;13/12/2019;Renovação;Vendedor 10;Brasil;22;Time 7;578403.08
+Cliente 3;2018-0685;Licenciamento;17/01/2020;Renovação;Vendedor 10;Brasil;12;Time 3;160519.84
+Cliente 3;2018-0686;Licenciamento;22/01/2020;Renovação;Vendedor 10;Brasil;9;Time 3;113902.88
+Cliente 3;2019-1915;Licenciamento;24/01/2020;Renovação;Vendedor 10;Brasil;12;Time 3;6383772.66
+Cliente 3;2020-2099;Licenciamento;24/01/2020;Renovação;Vendedor 10;Brasil;4;Time 3;12539816.58
+Cliente 3;2019-1554;Licenciamento;13/03/2020;Renovação;Vendedor 10;Brasil;12;Time 3;2266666.9
+Cliente 3;2020-2245;Licenciamento;29/04/2020;Renovação;Vendedor 3;Brasil;12;Time 1;671738.63
+Cliente 3;2020-2591;Serviços;01/09/2020;Cross selling;Vendedor 3;Brasil;12;Time 1;127284.0
+Cliente 3;2020-2165;Licenciamento;02/10/2020;Renovação;Vendedor 3;Brasil;12;Time 1;548760.08
+Cliente 3;2020-3199;Licenciamento;15/01/2021;Renovação;Vendedor 3;Brasil;25;Time 1;390371.61
+Cliente 3;2020-3200;Licenciamento;19/01/2021;Renovação;Vendedor 3;Brasil;25;Time 1;1171114.79
+Cliente 3;2021-3656;Produtos;07/04/2021;Upselling;Vendedor 28;Brasil;22;Time 1;1305402.59
+Cliente 3;2021-3846;Produtos;20/04/2021;Cross selling;Vendedor 23;Brasil;13;Time 1;52287.69
+Cliente 3;2021-3656;Produtos;23/04/2021;Upselling;Vendedor 28;Brasil;22;Time 1;1345026.41
+Cliente 3;2021-3662;Produtos;30/04/2021;Upselling;Vendedor 28;Brasil;12;Time 1;656708.75
+Cliente 30;2018-0273;Licenciamento;31/07/2018;Upselling;Vendedor 8;Mexico;6;Time 6;87262.5
+Cliente 30;2018-0258;Licenciamento;22/11/2018;Novo Logo;Vendedor 8;Mexico;38;Time 6;2029860.0
+Cliente 30;2018-0401;Licenciamento;25/01/2019;Renovação;Vendedor 8;Mexico;12;Time 6;523575.0
+Cliente 30;2019-0958;Licenciamento;28/03/2019;Upselling;Vendedor 8;Mexico;10;Time 6;174927.75
+Cliente 30;2019-0692;Licenciamento;31/07/2019;Upselling;Vendedor 8;Mexico;12;Time 6;515520.0
+Cliente 30;2019-1776;Licenciamento;31/10/2019;Upselling;Vendedor 8;Mexico;12;Time 6;607669.2
+Cliente 30;2019-0837;Licenciamento;31/10/2019;Renovação;Vendedor 8;Mexico;12;Time 6;998820.0
+Cliente 30;2019-0836;Licenciamento;31/01/2020;Renovação;Vendedor 8;Mexico;24;Time 9;1466010.0
+Cliente 30;2020-2090;Licenciamento;23/03/2020;Upselling;Vendedor 8;Mexico;38;Time 9;676620.0
+Cliente 30;2019-1803;Licenciamento;30/06/2020;Renovação;Vendedor 8;Mexico;24;Time 9;3640860.0
+Cliente 30;2019-1804;Licenciamento;22/07/2020;Renovação;Vendedor 8;Mexico;13;Time 9;303539.25
+Cliente 30;2020-2247;Licenciamento;27/07/2020;Upselling;Vendedor 8;Mexico;12;Time 9;689373.75
+Cliente 30;2020-2514;Licenciamento;17/08/2020;Renovação;Vendedor 8;Mexico;14;Time 9;601440.0
+Cliente 30;2019-1808;Licenciamento;26/10/2020;Renovação;Vendedor 8;Mexico;12;Time 9;481689.0
+Cliente 30;2019-1809;Licenciamento;28/10/2020;Renovação;Vendedor 8;Mexico;12;Time 9;966637.05
+Cliente 30;2021-3291;Licenciamento;10/02/2021;Renovação;Vendedor 8;Mexico;12;Time 9;733005.0
+Cliente 30;2021-3494;Licenciamento;23/02/2021;Upselling;Vendedor 8;Mexico;12;Time 9;104716.07
+Cliente 30;2021-3600;Licenciamento;22/03/2021;Upselling;Vendedor 8;Mexico;2;Time 9;117472.83
+Cliente 30;2021-3290;Licenciamento;25/03/2021;Renovação;Vendedor 8;Mexico;12;Time 9;676620.0
+Cliente 30;2021-3270;Licenciamento;30/03/2021;Novo Logo;Vendedor 8;Mexico;12;Time 9;2353413.24
+Cliente 31;2018-0472;Serviços;24/09/2018;Novo Logo;Vendedor 4;Brasil;5;Time 2;240000.0
+Cliente 31;2018-0578;Serviços;21/11/2018;Upselling;Vendedor 9;Brasil;1;Time 3;32100.0
+Cliente 31;2018-0622;Serviços;09/12/2018;Upselling;Vendedor 9;Brasil;1;Time 3;21300.0
+Cliente 31;2018-0675;Serviços;21/12/2018;Upselling;Vendedor 9;Brasil;2;Time 3;96000.0
+Cliente 31;2018-0580;Serviços;30/01/2019;Upselling;Vendedor 9;Brasil;6;Time 3;270000.0
+Cliente 31;2019-1000;Serviços;25/03/2019;Upselling;Vendedor 9;Brasil;2;Time 3;134160.0
+Cliente 31;2019-0926;Serviços;26/04/2019;Upselling;Vendedor 9;Brasil;2;Time 3;91200.0
+Cliente 31;2019-1344;Serviços;26/06/2019;Upselling;Vendedor 9;Brasil;1;Time 3;15568.6
+Cliente 31;2019-1612;Serviços;24/09/2019;Upselling;Vendedor 9;Brasil;2;Time 3;84000.0
+Cliente 31;2019-1634;Serviços;30/09/2019;Upselling;Vendedor 9;Brasil;2;Time 3;91200.0
+Cliente 31;2019-1609;Serviços;30/09/2019;Upselling;Vendedor 9;Brasil;4;Time 3;501840.0
+Cliente 31;2019-1723;Serviços;14/10/2019;Upselling;Vendedor 9;Brasil;3;Time 3;142560.0
+Cliente 31;2019-1869;Serviços;19/11/2019;Upselling;Vendedor 9;Brasil;1;Time 3;9600.0
+Cliente 31;2019-1868;Serviços;22/11/2019;Cross selling;Vendedor 9;Brasil;2;Time 3;56160.0
+Cliente 32;2018-0475;Serviços;24/09/2018;Novo Logo;Vendedor 3;Brasil;1;Time 1;32000.0
+Cliente 32;2019-1422;Serviços;15/08/2019;Cross selling;Vendedor 3;Brasil;2;Time 1;104144.28
+Cliente 32;2019-1543;Serviços;30/08/2019;Upselling;Vendedor 3;Brasil;1;Time 1;247445.32
+Cliente 33;2018-0451;Produtos;25/09/2018;Novo Logo;Vendedor 9;Brasil;12;Time 3;316200.0
+Cliente 33;2019-0848;Produtos;22/11/2019;Renovação;Vendedor 9;Brasil;12;Time 3;115736.13
+Cliente 33;2019-1911;Serviços;22/11/2019;Renovação;Vendedor 9;Brasil;12;Time 3;161840.64
+Cliente 33;2021-3678;Produtos;22/03/2021;Upselling;Vendedor 9;Brasil;2;Time 3;19289.36
+Cliente 34;2018-0376;Licenciamento;27/09/2018;Novo Logo;Vendedor 4;Brasil;49;Time 2;962695.0
+Cliente 34;2018-0448;Serviços;28/09/2018;Cross selling;Vendedor 4;Brasil;1;Time 2;36000.0
+Cliente 34;2018-0567;Serviços;12/11/2018;Cross selling;Vendedor 4;Brasil;1;Time 2;8990.0
+Cliente 34;2019-1790;Serviços;12/12/2019;Upselling;Vendedor 13;Brasil;1;Time 3;15000.0
+Cliente 34;2020-2102;Produtos;16/03/2020;Upselling;Vendedor 13;Brasil;36;Time 3;712800.0
+Cliente 34;2020-2420;Serviços;30/06/2020;Upselling;Vendedor 13;Brasil;12;Time 3;151430.4
+Cliente 34;2020-2222;Licenciamento;30/06/2020;Upselling;Vendedor 13;Brasil;27;Time 3;900000.0
+Cliente 34;2020-2995;Produtos;14/12/2020;Renovação;Vendedor 13;Brasil;6;Time 3;151435.02
+Cliente 35;2018-0269;Licenciamento;28/09/2018;Renovação;Vendedor 8;Mexico;12;Time 6;1040437.5
+Cliente 36;2018-0486;Serviços;01/10/2018;Novo Logo;Vendedor 3;Brasil;1;Time 1;31200.0
+Cliente 37;2018-0439;Licenciamento;11/10/2018;Renovação;Vendedor 8;Mexico;12;Time 6;593385.0
+Cliente 37;2018-0534;Licenciamento;30/10/2018;Novo Logo;Vendedor 8;Mexico;12;Time 6;429600.0
+Cliente 37;2018-0458;Licenciamento;20/11/2018;Renovação;Vendedor 8;Mexico;12;Time 6;418860.0
+Cliente 37;2018-0291;Licenciamento;29/11/2018;Renovação;Vendedor 8;Mexico;12;Time 6;279240.0
+Cliente 37;2018-0613;Licenciamento;18/12/2018;Upselling;Vendedor 8;Mexico;11;Time 6;884443.35
+Cliente 37;2018-0684;Licenciamento;27/12/2018;Upselling;Vendedor 8;Mexico;10;Time 6;214681.86
+Cliente 37;2019-1002;Licenciamento;26/03/2019;Upselling;Vendedor 8;Mexico;7;Time 6;25738.41
+Cliente 37;2019-1079;Licenciamento;27/07/2019;Upselling;Vendedor 8;Mexico;16;Time 6;1981245.39
+Cliente 37;2019-1716;Licenciamento;16/10/2019;Upselling;Vendedor 8;Mexico;12;Time 6;418860.0
+Cliente 38;2018-0438;Licenciamento;31/10/2018;Upselling;Vendedor 8;Mexico;15;Time 6;322200.0
+Cliente 38;2018-0290;Licenciamento;24/01/2019;Renovação;Vendedor 8;Mexico;12;Time 6;644400.0
+Cliente 38;2019-1792;Licenciamento;14/01/2020;Renovação;Vendedor 8;Mexico;12;Time 9;257760.0
+Cliente 38;2020-1956;Licenciamento;14/01/2020;Renovação;Vendedor 8;Mexico;12;Time 9;687360.0
+Cliente 38;2019-0839;Licenciamento;17/01/2020;Renovação;Vendedor 8;Mexico;12;Time 9;257760.0
+Cliente 39;2018-0570;Serviços;12/11/2018;Upselling;Vendedor 6;Brasil;1;Time 3;4495.0
+Cliente 4;2018-0035;Serviços;24/01/2018;Upselling;Vendedor 2;Brasil;3;Time 2;198750.0
+Cliente 4;2018-0090;Serviços;31/01/2018;Upselling;Vendedor 2;Brasil;12;Time 2;139552.0
+Cliente 4;2017-0133;Licenciamento;31/01/2018;Upselling;Vendedor 2;Brasil;12;Time 2;249819.77
+Cliente 4;2018-0089;Serviços;09/02/2018;Upselling;Vendedor 2;Brasil;5;Time 2;308088.25
+Cliente 4;2017-0134;Licenciamento;14/02/2018;Upselling;Vendedor 2;Brasil;12;Time 2;254476.08
+Cliente 4;2017-0105;Serviços;06/03/2018;Upselling;Vendedor 2;Brasil;11;Time 2;398562.0
+Cliente 4;2018-0184;Serviços;24/04/2018;Upselling;Vendedor 2;Brasil;1;Time 2;80000.0
+Cliente 4;2018-0381;Serviços;13/07/2018;Upselling;Vendedor 2;Brasil;3;Time 2;95400.0
+Cliente 4;2018-0418;Serviços;15/08/2018;Upselling;Vendedor 2;Brasil;1;Time 2;48150.0
+Cliente 4;2018-0477;Serviços;20/09/2018;Upselling;Vendedor 2;Brasil;2;Time 2;46200.0
+Cliente 4;2018-0502;Licenciamento;24/10/2018;Upselling;Vendedor 2;Brasil;14;Time 2;206191.57
+Cliente 4;2018-0503;Licenciamento;24/10/2018;Upselling;Vendedor 2;Brasil;14;Time 2;252067.1
+Cliente 4;2018-0421;Licenciamento;24/10/2018;Upselling;Vendedor 2;Brasil;14;Time 2;294737.19
+Cliente 4;2018-0422;Serviços;24/10/2018;Upselling;Vendedor 2;Brasil;5;Time 2;340000.0
+Cliente 4;2018-0573;Licenciamento;12/11/2018;Upselling;Vendedor 3;Brasil;14;Time 1;90784.44
+Cliente 4;2018-0605;Serviços;29/11/2018;Upselling;Vendedor 3;Brasil;8;Time 1;98000.0
+Cliente 4;2018-0606;Licenciamento;29/11/2018;Upselling;Vendedor 3;Brasil;12;Time 1;136176.66
+Cliente 4;2018-0559;Licenciamento;21/12/2018;Upselling;Vendedor 3;Brasil;12;Time 1;186793.75
+Cliente 4;2018-0560;Serviços;21/12/2018;Upselling;Vendedor 3;Brasil;2;Time 1;278927.69
+Cliente 4;2018-0548;Serviços;08/01/2019;Cross selling;Vendedor 3;Brasil;1;Time 1;15899.16
+Cliente 4;2019-1168;Licenciamento;23/04/2019;Upselling;Vendedor 3;Brasil;12;Time 1;256441.68
+Cliente 4;2019-0762;Licenciamento;23/04/2019;Upselling;Vendedor 3;Brasil;12;Time 1;963921.84
+Cliente 4;2019-1256;Licenciamento;23/05/2019;Upselling;Vendedor 3;Brasil;15;Time 1;22950.52
+Cliente 4;2019-1266;Serviços;28/05/2019;Upselling;Vendedor 3;Brasil;1;Time 1;58000.0
+Cliente 4;2019-1267;Licenciamento;28/05/2019;Upselling;Vendedor 3;Brasil;13;Time 1;256086.36
+Cliente 4;2019-1238;Serviços;25/06/2019;Upselling;Vendedor 14;Brasil;4;Time 3;109845.66
+Cliente 4;2019-1076;Serviços;26/06/2019;Upselling;Vendedor 14;Brasil;8;Time 3;353001.6
+Cliente 4;2019-1130;Licenciamento;26/08/2019;Upselling;Vendedor 3;Brasil;12;Time 1;45901.05
+Cliente 4;2019-1170;Licenciamento;26/08/2019;Upselling;Vendedor 3;Brasil;12;Time 1;75900.05
+Cliente 4;2019-1131;Serviços;26/08/2019;Upselling;Vendedor 3;Brasil;4;Time 1;647795.56
+Cliente 4;2019-1571;Licenciamento;28/08/2019;Upselling;Vendedor 3;Brasil;12;Time 1;137703.12
+Cliente 4;2019-1760;Serviços;14/11/2019;Upselling;Vendedor 3;Brasil;5;Time 1;262889.3
+Cliente 4;2019-1724;Licenciamento;08/01/2020;Renovação;Vendedor 3;Brasil;12;Time 1;227948.16
+Cliente 4;2020-1980;Licenciamento;27/02/2020;Renovação;Vendedor 3;Brasil;12;Time 1;220330.44
+Cliente 4;2020-2154;Licenciamento;09/03/2020;Renovação;Vendedor 3;Brasil;12;Time 1;14246.76
+Cliente 4;2020-2155;Licenciamento;09/03/2020;Renovação;Vendedor 3;Brasil;12;Time 1;116001.0
+Cliente 4;2020-2074;Licenciamento;09/03/2020;Renovação;Vendedor 3;Brasil;12;Time 1;344257.8
+Cliente 4;2020-2270;Serviços;20/04/2020;Renovação;Vendedor 3;Brasil;2;Time 1;175607.5
+Cliente 4;2020-2347;Licenciamento;26/05/2020;Upselling;Vendedor 3;Brasil;12;Time 1;165655.56
+Cliente 4;2019-1725;Licenciamento;26/05/2020;Renovação;Vendedor 3;Brasil;24;Time 1;388818.4
+Cliente 4;2019-1656;Licenciamento;26/05/2020;Renovação;Vendedor 3;Brasil;24;Time 1;475326.54
+Cliente 4;2020-1964;Licenciamento;12/06/2020;Upselling;Vendedor 3;Brasil;12;Time 1;87605.18
+Cliente 4;2020-1960;Licenciamento;22/06/2020;Renovação;Vendedor 3;Brasil;12;Time 1;2082394.71
+Cliente 4;2020-2119;Serviços;25/06/2020;Renovação;Vendedor 3;Brasil;3;Time 1;78120.0
+Cliente 4;2020-2330;Serviços;06/08/2020;Renovação;Vendedor 3;Brasil;8;Time 1;208320.0
+Cliente 4;2020-2566;Serviços;21/08/2020;Upselling;Vendedor 3;Brasil;3;Time 1;139230.0
+Cliente 4;2020-2606;Serviços;24/08/2020;Upselling;Vendedor 3;Brasil;1;Time 1;113800.0
+Cliente 4;2020-2922;Licenciamento;15/10/2020;Upselling;Vendedor 3;Brasil;25;Time 1;333238.92
+Cliente 4;2020-3062;Licenciamento;22/10/2020;Upselling;Vendedor 3;Brasil;12;Time 1;68988.3
+Cliente 4;2020-2955;Licenciamento;22/10/2020;Upselling;Vendedor 3;Brasil;12;Time 1;83309.7
+Cliente 4;2020-2942;Licenciamento;22/10/2020;Upselling;Vendedor 3;Brasil;25;Time 1;388788.68
+Cliente 4;2020-2948;Licenciamento;30/10/2020;Upselling;Vendedor 3;Brasil;13;Time 1;275950.08
+Cliente 4;2019-1822;Licenciamento;03/11/2020;Renovação;Vendedor 3;Brasil;13;Time 1;223801.84
+Cliente 4;2020-2269;Licenciamento;18/12/2020;Upselling;Vendedor 3;Brasil;24;Time 1;748118.92
+Cliente 4;2020-2491;Serviços;22/12/2020;Upselling;Vendedor 3;Brasil;3;Time 1;29887.8
+Cliente 4;2020-3150;Licenciamento;02/02/2021;Renovação;Vendedor 3;Brasil;12;Time 1;137275.36
+Cliente 4;2021-3620;Serviços;15/03/2021;Renovação;Vendedor 3;Brasil;9;Time 1;208320.0
+Cliente 4;2021-3528;Licenciamento;19/03/2021;Renovação;Vendedor 3;Brasil;12;Time 1;382597.81
+Cliente 4;2021-3802;Produtos;01/04/2021;Upselling;Vendedor 3;Brasil;12;Time 1;49952.97
+Cliente 4;2020-3098;Produtos;30/04/2021;Cross selling;Vendedor 29;Brasil;12;Time 1;563546.2
+Cliente 40;2018-0571;Serviços;12/11/2018;Upselling;Vendedor 3;Brasil;1;Time 1;4495.0
+Cliente 40;2018-0572;Serviços;12/11/2018;Upselling;Vendedor 3;Brasil;1;Time 1;26070.0
+Cliente 40;2019-1306;Serviços;17/06/2019;Upselling;Vendedor 3;Brasil;1;Time 1;22474.98
+Cliente 41;2018-0490;Produtos;14/11/2018;Novo Logo;Vendedor 1;Brasil;2;Time 1;87000.0
+Cliente 42;2018-0626;Serviços;12/12/2018;Novo Logo;Vendedor 9;Brasil;1;Time 3;48000.0
+Cliente 42;2019-0922;Serviços;28/02/2019;Upselling;Vendedor 9;Brasil;2;Time 3;55198.8
+Cliente 42;2019-1119;Produtos;28/03/2019;Upselling;Vendedor 11;Brasil;5;Time 3;150000.0
+Cliente 42;2018-0583;Produtos;08/05/2019;Novo Logo;Vendedor 11;Brasil;5;Time 3;178560.0
+Cliente 42;2019-1206;Produtos;14/05/2019;Upselling;Vendedor 14;Brasil;1;Time 3;27000.0
+Cliente 42;2019-1145;Serviços;22/05/2019;Upselling;Vendedor 9;Brasil;4;Time 3;73778.88
+Cliente 43;2018-0659;Serviços;18/12/2018;Cross selling;Vendedor 6;Brasil;2;Time 3;31109.84
+Cliente 43;2018-0319;Licenciamento;18/12/2018;Cross selling;Vendedor 6;Brasil;12;Time 3;87330.21
+Cliente 43;2018-0658;Serviços;18/12/2018;Upselling;Vendedor 6;Brasil;2;Time 3;130000.0
+Cliente 43;2018-0518;Produtos;18/12/2018;Upselling;Vendedor 6;Brasil;12;Time 3;894024.0
+Cliente 43;2019-1147;Produtos;08/05/2019;Upselling;Vendedor 13;Brasil;13;Time 3;197340.0
+Cliente 43;2019-0704;Serviços;08/05/2019;Upselling;Vendedor 13;Brasil;12;Time 3;292800.0
+Cliente 43;2019-1129;Serviços;08/05/2019;Upselling;Vendedor 13;Brasil;12;Time 3;306660.0
+Cliente 43;2019-1151;Serviços;08/05/2019;Upselling;Vendedor 13;Brasil;12;Time 3;343203.88
+Cliente 43;2018-0217;Licenciamento;17/07/2019;Upselling;Vendedor 13;Brasil;22;Time 3;573915.0
+Cliente 43;2019-1810;Serviços;22/11/2019;Upselling;Vendedor 13;Brasil;1;Time 3;43795.0
+Cliente 43;2019-0847;Produtos;18/12/2019;Upselling;Vendedor 13;Brasil;12;Time 3;670518.0
+Cliente 43;2018-0674;Licenciamento;19/12/2019;Cross selling;Vendedor 13;Brasil;37;Time 3;618480.0
+Cliente 43;2020-1977;Serviços;03/03/2020;Upselling;Vendedor 13;Brasil;6;Time 3;147934.08
+Cliente 44;2018-0375;Licenciamento;21/12/2018;Renovação;Vendedor 8;Mexico;12;Time 6;402750.0
+Cliente 44;2019-0917;Licenciamento;29/04/2019;Novo Logo;Vendedor 8;Mexico;13;Time 6;547740.0
+Cliente 44;2019-0941;Licenciamento;21/05/2019;Upselling;Vendedor 8;Mexico;9;Time 6;935470.11
+Cliente 44;2019-1885;Licenciamento;03/12/2019;Upselling;Vendedor 8;Mexico;25;Time 6;2110324.08
+Cliente 44;2019-0842;Licenciamento;24/01/2020;Renovação;Vendedor 8;Mexico;24;Time 9;563850.0
+Cliente 44;2020-2359;Licenciamento;28/05/2020;Renovação;Vendedor 8;Mexico;38;Time 9;177639.6
+Cliente 44;2021-3289;Licenciamento;09/02/2021;Renovação;Vendedor 8;Mexico;12;Time 9;281925.0
+Cliente 44;2021-3287;Licenciamento;09/02/2021;Renovação;Vendedor 8;Mexico;12;Time 9;343680.0
+Cliente 44;2021-3288;Licenciamento;09/02/2021;Renovação;Vendedor 8;Mexico;12;Time 9;1006875.0
+Cliente 45;2018-0352;Licenciamento;27/12/2018;Renovação;Vendedor 1;Brasil;12;Time 1;230136.72
+Cliente 46;2018-0306;Serviços;28/12/2018;Cross selling;Vendedor 1;Brasil;5;Time 1;252856.47
+Cliente 46;2020-2349;Serviços;26/06/2020;Upselling;Vendedor 1;Brasil;12;Time 1;201484.8
+Cliente 47;2018-0393;Serviços;15/01/2019;Cross selling;Vendedor 3;Brasil;12;Time 1;25600.0
+Cliente 47;2017-0301;Licenciamento;15/01/2019;Renovação;Vendedor 3;Brasil;12;Time 1;166950.0
+Cliente 47;2019-1691;Licenciamento;03/02/2020;Renovação;Vendedor 3;Brasil;24;Time 1;331792.2
+Cliente 48;2018-0444;Licenciamento;30/01/2019;Novo Logo;Vendedor 8;Mexico;32;Time 6;547740.0
+Cliente 49;2018-0180;Serviços;31/01/2019;Upselling;Vendedor 3;Brasil;1;Time 1;39469.99
+Cliente 5;2017-0152;Serviços;24/01/2018;Upselling;Vendedor 3;Brasil;2;Time 1;157297.2
+Cliente 5;2018-0110;Serviços;02/03/2018;Upselling;Vendedor 3;Brasil;2;Time 1;45020.1
+Cliente 5;2018-0112;Serviços;05/03/2018;Upselling;Vendedor 3;Brasil;7;Time 1;162796.5
+Cliente 5;2018-0113;Serviços;05/03/2018;Upselling;Vendedor 3;Brasil;8;Time 1;1010653.2
+Cliente 5;2018-0155;Serviços;28/03/2018;Upselling;Vendedor 3;Brasil;12;Time 1;332640.0
+Cliente 5;2018-0128;Serviços;02/04/2018;Upselling;Vendedor 3;Brasil;6;Time 1;945932.4
+Cliente 5;2018-0142;Serviços;02/04/2018;Upselling;Vendedor 3;Brasil;13;Time 1;951050.64
+Cliente 5;2018-0129;Serviços;11/05/2018;Upselling;Vendedor 3;Brasil;8;Time 1;1297361.52
+Cliente 5;2018-0230;Serviços;14/05/2018;Cross selling;Vendedor 3;Brasil;4;Time 1;282120.0
+Cliente 5;2018-0236;Serviços;18/05/2018;Upselling;Vendedor 3;Brasil;4;Time 1;263501.7
+Cliente 5;2017-0202;Licenciamento;15/06/2018;Renovação;Vendedor 3;Brasil;12;Time 1;1657500.0
+Cliente 5;2018-0254;Licenciamento;15/06/2018;Upselling;Vendedor 3;Brasil;37;Time 1;1657500.0
+Cliente 5;2017-0201;Licenciamento;15/06/2018;Renovação;Vendedor 3;Brasil;14;Time 1;1838012.37
+Cliente 5;2017-0200;Licenciamento;15/06/2018;Renovação;Vendedor 3;Brasil;12;Time 1;3111782.64
+Cliente 5;2018-0145;Licenciamento;15/06/2018;Upselling;Vendedor 3;Brasil;37;Time 1;3810588.2
+Cliente 5;2018-0390;Serviços;25/07/2018;Upselling;Vendedor 3;Brasil;1;Time 1;59605.3
+Cliente 5;2018-0402;Serviços;03/08/2018;Upselling;Vendedor 3;Brasil;12;Time 1;161918.4
+Cliente 5;2017-0165;Licenciamento;06/09/2018;Renovação;Vendedor 3;Brasil;12;Time 1;957075.28
+Cliente 5;2019-1613;Serviços;10/09/2018;Upselling;Vendedor 3;Brasil;1;Time 1;30527.2
+Cliente 5;2018-0470;Serviços;19/09/2018;Upselling;Vendedor 3;Brasil;6;Time 1;120151.76
+Cliente 5;2018-0617;Serviços;08/10/2018;Cross selling;Vendedor 3;Brasil;12;Time 1;330760.0
+Cliente 5;2018-0616;Licenciamento;08/10/2018;Cross selling;Vendedor 3;Brasil;12;Time 1;358398.0
+Cliente 5;2018-0618;Serviços;08/10/2018;Cross selling;Vendedor 3;Brasil;4;Time 1;363794.4
+Cliente 5;2018-0619;Serviços;08/10/2018;Cross selling;Vendedor 3;Brasil;16;Time 1;483200.0
+Cliente 5;2018-0000;Licenciamento;08/10/2018;Cross selling;Vendedor 3;Brasil;12;Time 1;2565216.0
+Cliente 5;2018-0505;Serviços;11/10/2018;Upselling;Vendedor 3;Brasil;12;Time 1;138786.48
+Cliente 5;2018-0510;Serviços;17/10/2018;Upselling;Vendedor 3;Brasil;1;Time 1;39652.16
+Cliente 5;2018-0519;Serviços;24/10/2018;Upselling;Vendedor 3;Brasil;12;Time 1;700045.5
+Cliente 5;2018-0666;Licenciamento;26/10/2018;Cross selling;Vendedor 3;Argentina;12;Time 1;1989000.0
+Cliente 5;2018-0665;Licenciamento;26/10/2018;Novo Logo;Vendedor 3;Argentina;14;Time 1;7122171.55
+Cliente 5;2018-0528;Serviços;29/10/2018;Upselling;Vendedor 3;Brasil;5;Time 1;440000.0
+Cliente 5;2018-0357;Licenciamento;12/11/2018;Renovação;Vendedor 3;Brasil;12;Time 1;278888.28
+Cliente 5;2018-0356;Licenciamento;12/11/2018;Renovação;Vendedor 3;Brasil;12;Time 1;629148.46
+Cliente 5;2018-0596;Serviços;26/11/2018;Upselling;Vendedor 3;Brasil;2;Time 1;116996.96
+Cliente 5;2018-0597;Serviços;26/11/2018;Upselling;Vendedor 3;Brasil;2;Time 1;116996.96
+Cliente 5;2018-0599;Serviços;26/11/2018;Upselling;Vendedor 3;Brasil;1;Time 1;187803.0
+Cliente 5;2018-0598;Serviços;26/11/2018;Upselling;Vendedor 3;Brasil;2;Time 1;344841.12
+Cliente 5;2018-0611;Serviços;03/12/2018;Upselling;Vendedor 3;Brasil;1;Time 1;23874.75
+Cliente 5;2018-0612;Serviços;03/12/2018;Upselling;Vendedor 3;Brasil;1;Time 1;206280.0
+Cliente 5;2018-0607;Serviços;21/12/2018;Upselling;Vendedor 3;Brasil;1;Time 1;117734.4
+Cliente 5;2019-0908;Serviços;25/02/2019;Upselling;Vendedor 3;Brasil;3;Time 1;165867.76
+Cliente 5;2019-0905;Serviços;25/02/2019;Upselling;Vendedor 3;Brasil;3;Time 1;207602.5
+Cliente 5;2019-0906;Serviços;25/02/2019;Upselling;Vendedor 3;Brasil;3;Time 1;414415.99
+Cliente 5;2019-0907;Serviços;25/02/2019;Upselling;Vendedor 3;Brasil;3;Time 1;486320.82
+Cliente 5;2019-0962;Serviços;13/03/2019;Upselling;Vendedor 3;Brasil;10;Time 1;219848.75
+Cliente 5;2019-1127;Serviços;04/04/2019;Upselling;Vendedor 3;Brasil;3;Time 1;461681.04
+Cliente 5;2019-1128;Serviços;04/04/2019;Upselling;Vendedor 3;Brasil;3;Time 1;461688.46
+Cliente 5;2019-1217;Serviços;08/05/2019;Upselling;Vendedor 3;Brasil;1;Time 1;44891.0
+Cliente 5;2019-1269;Serviços;29/05/2019;Upselling;Vendedor 3;Brasil;7;Time 1;214488.48
+Cliente 5;2018-0354;Licenciamento;05/06/2019;Renovação;Vendedor 3;Brasil;37;Time 1;1838012.37
+Cliente 5;2018-0355;Licenciamento;05/06/2019;Renovação;Vendedor 3;Brasil;37;Time 1;3315000.0
+Cliente 5;2018-0353;Licenciamento;05/06/2019;Renovação;Vendedor 3;Brasil;37;Time 1;6922370.84
+Cliente 5;2019-1362;Serviços;27/06/2019;Upselling;Vendedor 3;Brasil;3;Time 1;200000.0
+Cliente 5;2019-1428;Serviços;17/07/2019;Upselling;Vendedor 3;Brasil;3;Time 1;153242.32
+Cliente 5;2019-1483;Serviços;22/07/2019;Upselling;Vendedor 3;Brasil;1;Time 1;134038.08
+Cliente 5;2019-1482;Serviços;22/07/2019;Upselling;Vendedor 3;Brasil;3;Time 1;512132.4
+Cliente 5;2019-1351;Serviços;23/07/2019;Upselling;Vendedor 3;Brasil;5;Time 1;317832.8
+Cliente 5;2019-1430;Serviços;23/07/2019;Upselling;Vendedor 3;Brasil;2;Time 1;687108.56
+Cliente 5;2019-1426;Serviços;29/07/2019;Upselling;Vendedor 3;Brasil;15;Time 1;825277.68
+Cliente 5;2019-1509;Serviços;01/08/2019;Upselling;Vendedor 3;Brasil;1;Time 1;20297.52
+Cliente 5;2019-0844;Licenciamento;15/08/2019;Renovação;Vendedor 3;Brasil;12;Time 1;358398.0
+Cliente 5;2018-0676;Licenciamento;15/08/2019;Renovação;Vendedor 3;Brasil;12;Time 1;2565216.0
+Cliente 5;2019-1513;Serviços;30/08/2019;Upselling;Vendedor 3;Brasil;4;Time 1;122259.0
+Cliente 5;2019-1614;Serviços;10/09/2019;Upselling;Vendedor 3;Brasil;1;Time 1;5566.24
+Cliente 5;2019-1641;Serviços;20/09/2019;Upselling;Vendedor 3;Brasil;3;Time 1;396794.9
+Cliente 5;2018-0649;Licenciamento;20/09/2019;Renovação;Vendedor 3;Brasil;12;Time 1;782418.25
+Cliente 5;2019-1646;Serviços;23/09/2019;Upselling;Vendedor 3;Brasil;2;Time 1;156690.0
+Cliente 5;2019-1620;Serviços;25/09/2019;Upselling;Vendedor 3;Brasil;1;Time 1;30164.4
+Cliente 5;2019-1281;Licenciamento;30/09/2019;Upselling;Vendedor 3;Brasil;12;Time 1;1293997.98
+Cliente 5;2019-1619;Serviços;01/10/2019;Upselling;Vendedor 3;Brasil;1;Time 1;144154.8
+Cliente 5;2019-1622;Serviços;01/10/2019;Upselling;Vendedor 3;Brasil;3;Time 1;434718.72
+Cliente 5;2018-0650;Licenciamento;17/10/2019;Renovação;Vendedor 3;Brasil;12;Time 1;297206.68
+Cliente 5;2018-0651;Licenciamento;17/10/2019;Renovação;Vendedor 3;Brasil;12;Time 1;627322.13
+Cliente 5;2019-0718;Licenciamento;17/10/2019;Renovação;Vendedor 3;Brasil;12;Time 1;1989000.0
+Cliente 5;2019-0717;Licenciamento;17/10/2019;Renovação;Vendedor 3;Brasil;12;Time 1;7122171.55
+Cliente 5;2019-1728;Serviços;18/10/2019;Upselling;Vendedor 3;Brasil;2;Time 1;50457.6
+Cliente 5;2019-1786;Serviços;06/11/2019;Upselling;Vendedor 3;Brasil;1;Time 1;230679.3
+Cliente 5;2019-1859;Serviços;14/11/2019;Upselling;Vendedor 3;Brasil;1;Time 1;73168.0
+Cliente 5;2019-1878;Serviços;21/11/2019;Upselling;Vendedor 3;Brasil;2;Time 1;200150.4
+Cliente 5;2019-1924;Serviços;26/12/2019;Upselling;Vendedor 3;Brasil;3;Time 1;270714.48
+Cliente 5;2020-2054;Serviços;20/01/2020;Renovação;Vendedor 3;Brasil;3;Time 1;25756.2
+Cliente 5;2020-2057;Serviços;21/01/2020;Upselling;Vendedor 3;Brasil;1;Time 1;30527.2
+Cliente 5;2020-2135;Serviços;02/03/2020;Renovação;Vendedor 3;Brasil;10;Time 1;1047455.0
+Cliente 5;2020-2139;Serviços;03/03/2020;Renovação;Vendedor 3;Brasil;3;Time 1;90493.2
+Cliente 5;2020-2108;Serviços;04/03/2020;Renovação;Vendedor 3;Brasil;10;Time 1;350393.0
+Cliente 5;2020-2150;Serviços;06/03/2020;Renovação;Vendedor 3;Brasil;1;Time 1;18320.4
+Cliente 5;2020-2149;Serviços;06/03/2020;Renovação;Vendedor 3;Brasil;1;Time 1;36639.05
+Cliente 5;2020-2167;Serviços;13/03/2020;Renovação;Vendedor 3;Brasil;1;Time 1;23031.36
+Cliente 5;2020-2176;Serviços;17/03/2020;Renovação;Vendedor 3;Brasil;1;Time 1;9618.48
+Cliente 5;2020-2201;Serviços;27/03/2020;Renovação;Vendedor 3;Brasil;1;Time 1;23032.0
+Cliente 5;2019-1282;Serviços;31/03/2020;Upselling;Vendedor 3;Brasil;15;Time 1;474075.0
+Cliente 5;2020-2256;Serviços;03/04/2020;Renovação;Vendedor 3;Brasil;1;Time 1;21591.9
+Cliente 5;2020-2254;Serviços;03/04/2020;Renovação;Vendedor 3;Brasil;1;Time 1;22377.06
+Cliente 5;2020-2302;Serviços;23/04/2020;Renovação;Vendedor 3;Brasil;1;Time 1;21591.9
+Cliente 5;2020-2313;Serviços;29/04/2020;Renovação;Vendedor 3;Brasil;1;Time 1;23032.0
+Cliente 5;2020-2322;Serviços;04/05/2020;Renovação;Vendedor 3;Brasil;3;Time 1;262861.2
+Cliente 5;2020-2321;Serviços;08/05/2020;Renovação;Vendedor 3;Brasil;4;Time 1;110602.8
+Cliente 5;2020-2367;Serviços;28/05/2020;Renovação;Vendedor 3;Brasil;6;Time 1;134000.54
+Cliente 5;2020-2363;Serviços;02/06/2020;Renovação;Vendedor 3;Brasil;7;Time 1;245444.4
+Cliente 5;2020-2404;Serviços;09/06/2020;Renovação;Vendedor 3;Brasil;1;Time 1;23031.36
+Cliente 5;2020-2403;Serviços;12/06/2020;Renovação;Vendedor 3;Brasil;7;Time 1;370542.26
+Cliente 5;2018-0662;Licenciamento;30/06/2020;Renovação;Vendedor 3;Brasil;24;Time 1;2205975.01
+Cliente 5;2018-0663;Produtos;30/06/2020;Renovação;Vendedor 3;Brasil;36;Time 1;7469497.4
+Cliente 5;2020-2435;Serviços;01/07/2020;Renovação;Vendedor 3;Brasil;3;Time 1;91929.6
+Cliente 5;2020-2329;Serviços;24/07/2020;Upselling;Vendedor 3;Brasil;4;Time 1;104857.2
+Cliente 5;2020-2564;Serviços;10/08/2020;Renovação;Vendedor 3;Brasil;4;Time 1;65325.12
+Cliente 5;2020-2563;Serviços;26/08/2020;Upselling;Vendedor 3;Brasil;4;Time 1;120657.6
+Cliente 5;2019-1823;Produtos;18/09/2020;Renovação;Vendedor 3;Brasil;12;Time 1;840500.0
+Cliente 5;2020-2673;Serviços;01/10/2020;Upselling;Vendedor 3;Brasil;4;Time 1;90493.2
+Cliente 5;2020-2876;Serviços;15/10/2020;Upselling;Vendedor 3;Brasil;3;Time 1;89056.8
+Cliente 5;2020-2935;Serviços;30/10/2020;Upselling;Vendedor 3;Brasil;8;Time 1;239878.8
+Cliente 5;2020-2880;Serviços;09/11/2020;Upselling;Vendedor 3;Brasil;13;Time 1;395010.0
+Cliente 5;2019-1826;Produtos;13/11/2020;Renovação;Vendedor 3;Brasil;12;Time 1;338119.92
+Cliente 5;2020-3050;Serviços;25/11/2020;Renovação;Vendedor 3;Brasil;1;Time 1;59453.28
+Cliente 5;2020-2949;Serviços;30/11/2020;Upselling;Vendedor 3;Brasil;2;Time 1;21905.1
+Cliente 5;2019-1827;Produtos;30/11/2020;Renovação;Vendedor 3;Brasil;12;Time 1;1062053.45
+Cliente 5;2020-3004;Serviços;01/12/2020;Upselling;Vendedor 3;Brasil;7;Time 1;211150.8
+Cliente 5;2021-3428;Serviços;04/02/2021;Upselling;Vendedor 3;Brasil;10;Time 1;307389.6
+Cliente 5;2021-3308;Serviços;04/02/2021;Upselling;Vendedor 3;Brasil;10;Time 1;450858.24
+Cliente 5;2020-2967;Serviços;10/02/2021;Upselling;Vendedor 3;Brasil;9;Time 1;271479.6
+Cliente 5;2021-3495;Serviços;10/02/2021;Upselling;Vendedor 3;Brasil;12;Time 1;772726.68
+Cliente 5;2021-3497;Serviços;11/02/2021;Upselling;Vendedor 3;Brasil;12;Time 1;359818.2
+Cliente 5;2021-3501;Serviços;11/02/2021;Upselling;Vendedor 3;Brasil;12;Time 1;719636.4
+Cliente 5;2021-3498;Serviços;11/02/2021;Upselling;Vendedor 3;Brasil;12;Time 1;1386844.2
+Cliente 5;2021-3421;Serviços;18/02/2021;Upselling;Vendedor 3;Brasil;10;Time 1;269948.16
+Cliente 5;2021-3484;Serviços;02/03/2021;Upselling;Vendedor 3;Brasil;10;Time 1;269948.16
+Cliente 5;2021-3869;Serviços;19/04/2021;Upselling;Vendedor 23;Brasil;1;Time 1;28480.0
+Cliente 5;2021-3864;Serviços;19/04/2021;Upselling;Vendedor 23;Brasil;8;Time 1;245624.4
+Cliente 50;2018-0523;Serviços;26/02/2019;Novo Logo;Vendedor 9;Brasil;7;Time 3;636822.48
+Cliente 50;2019-1418;Serviços;15/07/2019;Upselling;Vendedor 9;Brasil;3;Time 3;65622.0
+Cliente 50;2019-1566;Serviços;20/09/2019;Upselling;Vendedor 9;Brasil;3;Time 3;544496.4
+Cliente 50;2020-2056;Serviços;29/01/2020;Renovação;Vendedor 9;Brasil;12;Time 3;1100010.24
+Cliente 50;2020-2078;Serviços;19/02/2020;Upselling;Vendedor 9;Brasil;3;Time 3;110244.96
+Cliente 50;2020-2122;Serviços;31/03/2020;Cross selling;Vendedor 9;Brasil;3;Time 3;220489.92
+Cliente 50;2020-2421;Serviços;26/06/2020;Renovação;Vendedor 9;Brasil;2;Time 3;146993.28
+Cliente 50;2020-2574;Serviços;31/08/2020;Upselling;Vendedor 9;Brasil;3;Time 3;110244.96
+Cliente 50;2020-2670;Serviços;17/09/2020;Upselling;Vendedor 9;Brasil;3;Time 3;304264.8
+Cliente 50;2020-2610;Serviços;29/09/2020;Upselling;Vendedor 9;Brasil;3;Time 3;60852.96
+Cliente 50;2020-3022;Serviços;03/02/2021;Renovação;Vendedor 9;Brasil;12;Time 3;1270080.0
+Cliente 51;2018-0387;Produtos;28/02/2019;Upselling;Vendedor 1;Brasil;2;Time 1;45000.0
+Cliente 51;2018-0576;Produtos;28/02/2019;Novo Logo;Vendedor 1;Brasil;12;Time 1;59000.0
+Cliente 52;2018-0463;Serviços;19/03/2019;Novo Logo;Vendedor 9;Brasil;2;Time 3;18561.2
+Cliente 52;2019-1155;Serviços;08/05/2019;Upselling;Vendedor 9;Brasil;3;Time 3;93773.76
+Cliente 52;2019-1312;Serviços;26/06/2019;Cross selling;Vendedor 9;Brasil;1;Time 3;12645.12
+Cliente 52;2019-1417;Serviços;18/07/2019;Upselling;Vendedor 9;Brasil;4;Time 3;184204.92
+Cliente 52;2019-1403;Serviços;02/08/2019;Upselling;Vendedor 9;Brasil;3;Time 3;91649.6
+Cliente 52;2019-1680;Serviços;08/10/2019;Upselling;Vendedor 9;Brasil;4;Time 3;224385.96
+Cliente 52;2019-1629;Licenciamento;05/11/2019;Cross selling;Vendedor 9;Brasil;37;Time 3;215587.08
+Cliente 52;2019-1867;Serviços;19/11/2019;Upselling;Vendedor 9;Brasil;2;Time 3;108723.2
+Cliente 52;2019-1886;Serviços;26/11/2019;Upselling;Vendedor 9;Brasil;5;Time 3;91649.6
+Cliente 52;2019-1890;Serviços;09/12/2019;Cross selling;Vendedor 9;Brasil;3;Time 3;100568.96
+Cliente 52;2020-2142;Serviços;16/03/2020;Renovação;Vendedor 16;Brasil;9;Time 3;917182.12
+Cliente 52;2020-2351;Serviços;29/05/2020;Renovação;Vendedor 16;Brasil;12;Time 3;232233.54
+Cliente 52;2020-2444;Serviços;27/07/2020;Renovação;Vendedor 16;Brasil;3;Time 3;100568.96
+Cliente 52;2020-2895;Serviços;21/10/2020;Renovação;Vendedor 16;Brasil;3;Time 3;100568.96
+Cliente 52;2021-3278;Serviços;22/01/2021;Upselling;Vendedor 9;Brasil;3;Time 3;87148.44
+Cliente 52;2020-3198;Produtos;26/02/2021;Cross selling;Vendedor 9;Brasil;12;Time 3;77903.82
+Cliente 52;2021-3873;Serviços;19/04/2021;Upselling;Vendedor 9;Brasil;7;Time 3;203346.36
+Cliente 53;2018-0582;Produtos;25/03/2019;Novo Logo;Vendedor 11;Brasil;3;Time 3;300000.0
+Cliente 53;2019-1010;Produtos;02/12/2019;Novo Logo;Vendedor 11;Brasil;12;Time 3;257040.0
+Cliente 54;2018-0679;Serviços;29/03/2019;Cross selling;Vendedor 1;Brasil;1;Time 1;81500.68
+Cliente 54;2018-0678;Produtos;29/03/2019;Novo Logo;Vendedor 1;Brasil;33;Time 1;331683.0
+Cliente 55;2019-1118;Serviços;16/04/2019;Novo Logo;Vendedor 3;Brasil;1;Time 1;45000.0
+Cliente 56;2018-0544;Produtos;17/04/2019;Novo Logo;Vendedor 11;Brasil;9;Time 3;234000.0
+Cliente 57;2019-1078;Produtos;18/04/2019;Novo Logo;Vendedor 10;Brasil;2;Time 7;81715.2
+Cliente 58;2019-0943;Produtos;30/04/2019;Novo Logo;Vendedor 4;Brasil;19;Time 2;1968600.0
+Cliente 58;2020-3100;Produtos;17/02/2021;Novo Logo;Vendedor 17;Brasil;61;Time 8;701653.6
+Cliente 59;2019-0927;Licenciamento;03/05/2019;Novo Logo;Vendedor 3;Brasil;37;Time 1;1200000.0
+Cliente 59;2020-2360;Licenciamento;22/05/2020;Upselling;Vendedor 3;Brasil;37;Time 1;155560.0
+Cliente 59;2020-2503;Serviços;28/12/2020;Cross selling;Vendedor 3;Brasil;3;Time 1;88089.6
+Cliente 6;2018-0030;Serviços;30/01/2018;Novo Logo;Vendedor 1;Brasil;4;Time 1;120800.0
+Cliente 6;2018-0141;Serviços;30/04/2018;Upselling;Vendedor 1;Brasil;14;Time 1;66000.0
+Cliente 60;2019-1004;Produtos;31/05/2019;Novo Logo;Vendedor 13;Brasil;12;Time 3;210000.0
+Cliente 61;2019-0716;Serviços;31/05/2019;Novo Logo;Vendedor 8;Mexico;1;Time 6;198690.0
+Cliente 62;2018-0121;Produtos;05/06/2019;Novo Logo;Vendedor 9;Brasil;16;Time 3;420000.0
+Cliente 62;2020-2608;Serviços;25/08/2020;Upselling;Vendedor 13;Brasil;13;Time 3;420000.0
+Cliente 63;2019-1177;Produtos;07/06/2019;Novo Logo;Vendedor 9;Brasil;9;Time 3;400000.0
+Cliente 64;2019-0703;Licenciamento;24/06/2019;Upselling;Vendedor 8;Mexico;37;Time 6;5316300.0
+Cliente 64;2019-0702;Licenciamento;17/07/2019;Upselling;Vendedor 8;Mexico;12;Time 6;308775.0
+Cliente 64;2019-1583;Licenciamento;03/12/2019;Renovação;Vendedor 8;Mexico;13;Time 6;365160.0
+Cliente 65;2019-1276;Produtos;25/06/2019;Novo Logo;Vendedor 1;Brasil;23;Time 1;480000.0
+Cliente 65;2019-1671;Serviços;27/09/2019;Cross selling;Vendedor 1;Brasil;1;Time 1;16000.0
+Cliente 66;2019-1492;Serviços;11/07/2019;Upselling;Vendedor 11;Brasil;14;Time 3;41972.2
+Cliente 66;2019-1356;Licenciamento;12/07/2019;Novo Logo;Vendedor 11;Brasil;12;Time 3;60214.41
+Cliente 67;2019-1216;Licenciamento;22/07/2019;Novo Logo;Vendedor 8;Mexico;12;Time 6;214800.0
+Cliente 67;2021-3269;Licenciamento;21/01/2021;Novo Logo;Vendedor 8;Mexico;12;Time 9;537268.5
+Cliente 67;2021-3515;Licenciamento;20/04/2021;Upselling;Vendedor 8;Mexico;12;Time 9;292128.0
+Cliente 68;2019-1388;Serviços;22/08/2019;Novo Logo;Vendedor 14;Brasil;2;Time 3;73920.0
+Cliente 68;2019-1631;Serviços;25/09/2019;Upselling;Vendedor 14;Brasil;2;Time 3;109999.68
+Cliente 68;2019-1798;Serviços;06/12/2019;Upselling;Vendedor 14;Brasil;2;Time 3;76000.0
+Cliente 68;2020-1966;Serviços;09/03/2020;Upselling;Vendedor 14;Brasil;1;Time 3;48444.48
+Cliente 68;2020-2311;Serviços;14/05/2020;Upselling;Vendedor 14;Brasil;1;Time 3;48192.0
+Cliente 68;2020-2400;Serviços;09/06/2020;Upselling;Vendedor 14;Brasil;1;Time 3;44175.6
+Cliente 68;2020-2513;Serviços;20/07/2020;Renovação;Vendedor 14;Brasil;1;Time 3;20800.0
+Cliente 69;2019-1254;Serviços;26/08/2019;Novo Logo;Vendedor 13;Brasil;1;Time 3;840360.48
+Cliente 69;2019-1791;Serviços;11/11/2019;Upselling;Vendedor 13;Brasil;6;Time 3;399000.0
+Cliente 7;2018-0034;Serviços;31/01/2018;Cross selling;Vendedor 1;Brasil;3;Time 1;52800.0
+Cliente 7;2018-0033;Licenciamento;31/01/2018;Novo Logo;Vendedor 1;Brasil;37;Time 1;338365.31
+Cliente 7;2018-0114;Produtos;19/04/2018;Cross selling;Vendedor 1;Brasil;12;Time 1;192000.0
+Cliente 7;2019-0834;Serviços;26/06/2019;Upselling;Vendedor 1;Brasil;3;Time 1;73920.0
+Cliente 7;2019-1316;Serviços;28/06/2019;Upselling;Vendedor 1;Brasil;2;Time 1;73920.0
+Cliente 7;2019-1532;Serviços;17/09/2019;Upselling;Vendedor 1;Brasil;5;Time 1;147840.0
+Cliente 7;2019-1906;Serviços;06/12/2019;Renovação;Vendedor 1;Brasil;6;Time 1;221760.0
+Cliente 7;2020-2493;Serviços;27/07/2020;Upselling;Vendedor 20;Brasil;3;Time 3;10141.12
+Cliente 7;2021-3510;Licenciamento;30/03/2021;Renovação;Vendedor 20;Brasil;12;Time 3;342798.07
+Cliente 7;2020-2596;Produtos;30/04/2021;Upselling;Vendedor 20;Brasil;12;Time 3;211200.0
+Cliente 70;2019-1366;Licenciamento;27/08/2019;Novo Logo;Vendedor 8;Mexico;12;Time 6;204060.0
+Cliente 71;2019-0879;Produtos;04/09/2019;Novo Logo;Vendedor 9;Brasil;12;Time 3;417891.11
+Cliente 71;2019-1602;Produtos;09/09/2019;Novo Logo;Vendedor 9;Brasil;12;Time 3;1500000.0
+Cliente 71;2020-2308;Produtos;05/06/2020;Cross selling;Vendedor 9;Brasil;6;Time 3;500000.0
+Cliente 71;2020-2396;Produtos;12/06/2020;Cross selling;Vendedor 7;Brasil;12;Time 5;1000000.0
+Cliente 71;2020-2392;Produtos;12/06/2020;Cross selling;Vendedor 7;Brasil;49;Time 5;4000000.0
+Cliente 71;2020-2577;Produtos;01/09/2020;Cross selling;Vendedor 9;Brasil;12;Time 3;11172.0
+Cliente 71;2020-2519;Serviços;24/09/2020;Upselling;Vendedor 9;Brasil;1;Time 3;100280.27
+Cliente 71;2019-1849;Produtos;14/12/2020;Renovação;Vendedor 9;Brasil;36;Time 3;3600000.0
+Cliente 71;2021-3513;Produtos;15/04/2021;Cross selling;Vendedor 7;Brasil;61;Time 5;1865700.0
+Cliente 73;2019-1484;Serviços;18/09/2019;Novo Logo;Vendedor 12;Colombia;4;Time 6;514446.0
+Cliente 73;2020-2286;Licenciamento;20/05/2020;Cross selling;Vendedor 12;Colombia;12;Time 10;30072.0
+Cliente 74;2019-1033;Serviços;23/09/2019;Novo Logo;Vendedor 15;Brasil;2;Time 3;86504.61
+Cliente 75;2019-1245;Produtos;26/09/2019;Novo Logo;Vendedor 9;Brasil;12;Time 3;219909.81
+Cliente 75;2019-1294;Serviços;26/09/2019;Novo Logo;Vendedor 9;Brasil;12;Time 3;531941.76
+Cliente 75;2020-2328;Serviços;05/06/2020;Upselling;Vendedor 9;Brasil;3;Time 3;48043.2
+Cliente 75;2020-2465;Serviços;14/07/2020;Renovação;Vendedor 9;Brasil;24;Time 3;1063883.52
+Cliente 75;2019-1850;Produtos;20/08/2020;Renovação;Vendedor 9;Brasil;24;Time 3;291155.52
+Cliente 75;2020-2650;Serviços;09/09/2020;Upselling;Vendedor 9;Brasil;12;Time 3;265970.88
+Cliente 75;2020-2655;Serviços;05/11/2020;Upselling;Vendedor 9;Brasil;12;Time 3;265970.88
+Cliente 75;2020-2941;Serviços;17/12/2020;Cross selling;Vendedor 9;Brasil;12;Time 3;265978.44
+Cliente 76;2019-1215;Serviços;02/10/2019;Upselling;Vendedor 1;Brasil;4;Time 1;239996.8
+Cliente 76;2020-2475;Serviços;01/09/2020;Upselling;Vendedor 1;Brasil;1;Time 1;14800.0
+Cliente 76;2020-2926;Serviços;30/10/2020;Upselling;Vendedor 1;Brasil;1;Time 1;12000.0
+Cliente 76;2020-2927;Serviços;28/12/2020;Upselling;Vendedor 1;Brasil;1;Time 1;14400.0
+Cliente 76;2020-3043;Serviços;29/12/2020;Upselling;Vendedor 1;Brasil;3;Time 1;82400.2
+Cliente 76;2021-3283;Serviços;22/02/2021;Upselling;Vendedor 25;Brasil;1;Time 3;4906.0
+Cliente 76;2021-3355;Serviços;22/02/2021;Upselling;Vendedor 25;Brasil;1;Time 3;4906.0
+Cliente 77;2018-0497;Produtos;04/10/2019;Novo Logo;Vendedor 14;Brasil;1;Time 3;1205681.75
+Cliente 77;2019-1644;Serviços;04/10/2019;Novo Logo;Vendedor 14;Brasil;12;Time 3;1982095.09
+Cliente 78;2019-1650;Produtos;04/10/2019;Novo Logo;Vendedor 1;Brasil;37;Time 1;558302.35
+Cliente 78;2019-1936;Produtos;26/12/2019;Novo Logo;Vendedor 7;Brasil;61;Time 5;4734499.0
+Cliente 79;2019-1600;Licenciamento;02/12/2019;Novo Logo;Vendedor 8;Mexico;12;Time 6;456450.0
+Cliente 79;2020-2364;Licenciamento;04/12/2020;Novo Logo;Vendedor 8;Mexico;24;Time 9;1396200.0
+Cliente 8;2018-0043;Serviços;06/02/2018;Upselling;Vendedor 2;Brasil;6;Time 2;401783.0
+Cliente 8;2018-0171;Serviços;17/04/2018;Cross selling;Vendedor 2;Brasil;1;Time 2;40562.49
+Cliente 8;2018-0132;Licenciamento;17/04/2018;Cross selling;Vendedor 2;Brasil;12;Time 2;583342.0
+Cliente 8;2018-0229;Serviços;14/05/2018;Upselling;Vendedor 2;Brasil;2;Time 2;34780.0
+Cliente 8;2018-0044;Licenciamento;14/05/2018;Upselling;Vendedor 4;Brasil;12;Time 2;234690.0
+Cliente 8;2018-0382;Serviços;22/08/2018;Upselling;Vendedor 4;Brasil;2;Time 2;120000.0
+Cliente 8;2017-0162;Licenciamento;31/08/2018;Renovação;Vendedor 4;Brasil;12;Time 2;989861.0
+Cliente 8;2018-0338;Licenciamento;27/09/2018;Renovação;Vendedor 3;Brasil;12;Time 1;90545.69
+Cliente 8;2018-0579;Serviços;28/11/2018;Upselling;Vendedor 4;Brasil;1;Time 2;30000.0
+Cliente 8;2018-0621;Serviços;13/12/2018;Upselling;Vendedor 4;Brasil;2;Time 2;120000.0
+Cliente 8;2019-0960;Serviços;11/03/2019;Upselling;Vendedor 3;Brasil;3;Time 1;307112.4
+Cliente 8;2019-0964;Serviços;10/04/2019;Upselling;Vendedor 3;Brasil;3;Time 1;100604.09
+Cliente 8;2018-0336;Licenciamento;03/05/2019;Renovação;Vendedor 3;Brasil;12;Time 1;583342.0
+Cliente 8;2019-1300;Serviços;11/06/2019;Upselling;Vendedor 3;Brasil;2;Time 1;87696.0
+Cliente 8;2019-0866;Serviços;11/06/2019;Upselling;Vendedor 3;Brasil;7;Time 1;973728.0
+Cliente 8;2018-0337;Licenciamento;29/07/2019;Renovação;Vendedor 3;Brasil;37;Time 1;1220000.0
+Cliente 8;2019-1494;Serviços;30/08/2019;Upselling;Vendedor 3;Brasil;2;Time 1;57120.0
+Cliente 8;2019-1301;Serviços;18/09/2019;Upselling;Vendedor 3;Brasil;7;Time 1;279552.0
+Cliente 8;2019-1742;Serviços;18/10/2019;Upselling;Vendedor 3;Brasil;7;Time 1;698880.0
+Cliente 8;2019-1754;Serviços;24/10/2019;Upselling;Vendedor 3;Brasil;2;Time 1;57120.0
+Cliente 8;2019-1855;Serviços;19/11/2019;Upselling;Vendedor 3;Brasil;2;Time 1;57120.0
+Cliente 8;2018-0640;Licenciamento;10/12/2019;Renovação;Vendedor 3;Brasil;12;Time 1;99501.53
+Cliente 8;2019-1944;Serviços;07/01/2020;Renovação;Vendedor 3;Brasil;4;Time 1;114236.64
+Cliente 8;2020-1968;Serviços;17/01/2020;Renovação;Vendedor 3;Brasil;5;Time 1;142800.0
+Cliente 8;2019-1947;Serviços;17/01/2020;Renovação;Vendedor 3;Brasil;12;Time 1;342720.0
+Cliente 8;2019-1946;Serviços;17/01/2020;Renovação;Vendedor 3;Brasil;12;Time 1;685440.0
+Cliente 8;2019-1949;Serviços;17/01/2020;Renovação;Vendedor 3;Brasil;11;Time 1;1713600.0
+Cliente 8;2020-2146;Serviços;06/03/2020;Renovação;Vendedor 3;Brasil;8;Time 1;244608.0
+Cliente 8;2020-2145;Serviços;06/03/2020;Renovação;Vendedor 3;Brasil;8;Time 1;264992.0
+Cliente 8;2020-2144;Serviços;06/03/2020;Renovação;Vendedor 3;Brasil;10;Time 1;532224.0
+Cliente 8;2020-2157;Produtos;16/03/2020;Cross selling;Vendedor 3;Brasil;12;Time 1;1499400.0
+Cliente 8;2020-2287;Serviços;23/04/2020;Renovação;Vendedor 3;Brasil;8;Time 1;228480.0
+Cliente 8;2019-1852;Licenciamento;30/04/2020;Renovação;Vendedor 3;Brasil;24;Time 1;807228.66
+Cliente 8;2020-2356;Serviços;21/05/2020;Renovação;Vendedor 3;Brasil;1;Time 1;28560.0
+Cliente 8;2019-1853;Licenciamento;01/07/2020;Renovação;Vendedor 3;Brasil;12;Time 1;1590196.64
+Cliente 8;2020-2374;Serviços;09/07/2020;Renovação;Vendedor 3;Brasil;2;Time 1;57120.0
+Cliente 8;2020-2533;Serviços;10/08/2020;Upselling;Vendedor 3;Brasil;4;Time 1;114240.0
+Cliente 8;2020-2568;Serviços;17/08/2020;Upselling;Vendedor 3;Brasil;3;Time 1;85680.0
+Cliente 8;2020-2569;Serviços;17/08/2020;Upselling;Vendedor 3;Brasil;3;Time 1;85680.0
+Cliente 8;2020-2573;Serviços;18/08/2020;Upselling;Vendedor 3;Brasil;2;Time 1;57120.0
+Cliente 8;2020-2722;Serviços;22/09/2020;Upselling;Vendedor 3;Brasil;2;Time 1;57120.0
+Cliente 8;2020-2709;Serviços;22/09/2020;Upselling;Vendedor 3;Brasil;2;Time 1;85680.0
+Cliente 8;2020-2653;Serviços;22/09/2020;Renovação;Vendedor 3;Brasil;3;Time 1;171360.0
+Cliente 8;2020-2708;Serviços;22/09/2020;Renovação;Vendedor 3;Brasil;6;Time 1;342720.0
+Cliente 8;2020-2706;Serviços;22/09/2020;Renovação;Vendedor 3;Brasil;12;Time 1;685440.0
+Cliente 8;2020-2711;Serviços;22/09/2020;Renovação;Vendedor 3;Brasil;12;Time 1;685440.0
+Cliente 8;2020-2707;Serviços;22/09/2020;Renovação;Vendedor 3;Brasil;12;Time 1;1028160.0
+Cliente 8;2020-2710;Serviços;22/09/2020;Renovação;Vendedor 3;Brasil;12;Time 1;1713600.0
+Cliente 8;2020-2718;Serviços;24/09/2020;Upselling;Vendedor 3;Brasil;3;Time 1;171360.0
+Cliente 8;2020-2531;Produtos;09/10/2020;Cross selling;Vendedor 3;Brasil;12;Time 1;914355.83
+Cliente 8;2020-2991;Produtos;03/11/2020;Cross selling;Vendedor 3;Brasil;12;Time 1;67730.06
+Cliente 8;2019-1913;Licenciamento;02/12/2020;Renovação;Vendedor 3;Brasil;12;Time 1;110011.87
+Cliente 8;2020-3141;Serviços;08/01/2021;Upselling;Vendedor 23;Brasil;12;Time 1;342720.0
+Cliente 8;2020-3157;Serviços;12/01/2021;Renovação;Vendedor 3;Brasil;12;Time 1;342720.0
+Cliente 8;2020-3158;Serviços;12/01/2021;Upselling;Vendedor 3;Brasil;12;Time 1;685440.0
+Cliente 8;2020-3137;Serviços;13/01/2021;Upselling;Vendedor 3;Brasil;12;Time 1;342720.0
+Cliente 8;2020-3138;Serviços;13/01/2021;Upselling;Vendedor 3;Brasil;12;Time 1;342720.0
+Cliente 8;2020-3139;Serviços;19/01/2021;Upselling;Vendedor 3;Brasil;12;Time 1;342720.0
+Cliente 8;2021-3271;Serviços;14/04/2021;Renovação;Vendedor 23;Brasil;9;Time 1;257040.0
+Cliente 8;2021-3630;Serviços;19/04/2021;Upselling;Vendedor 23;Brasil;12;Time 1;85680.0
+Cliente 8;2021-3608;Serviços;19/04/2021;Upselling;Vendedor 23;Brasil;9;Time 1;930048.0
+Cliente 80;2019-1879;Produtos;06/12/2019;Novo Logo;Vendedor 13;Brasil;12;Time 3;234680.04
+Cliente 81;2019-1349;Serviços;06/12/2019;Novo Logo;Vendedor 16;Brasil;2;Time 3;182116.48
+Cliente 81;2020-2082;Serviços;17/08/2020;Upselling;Vendedor 16;Brasil;5;Time 3;389308.0
+Cliente 81;2020-2638;Produtos;27/08/2020;Cross selling;Vendedor 16;Brasil;12;Time 3;158231.04
+Cliente 82;2019-1736;Licenciamento;09/12/2019;Novo Logo;Vendedor 3;Brasil;12;Time 1;57744.63
+Cliente 82;2020-2617;Licenciamento;21/09/2020;Cross selling;Vendedor 3;Brasil;12;Time 1;66958.61
+Cliente 82;2020-3049;Serviços;30/11/2020;Cross selling;Vendedor 3;Brasil;1;Time 1;30000.0
+Cliente 82;2020-3048;Serviços;30/11/2020;Cross selling;Vendedor 3;Brasil;1;Time 1;98800.0
+Cliente 82;2020-2988;Produtos;30/11/2020;Cross selling;Vendedor 3;Brasil;12;Time 1;334231.92
+Cliente 82;2020-3083;Licenciamento;25/03/2021;Renovação;Vendedor 3;Brasil;12;Time 1;89962.77
+Cliente 84;2019-1668;Licenciamento;30/12/2019;Novo Logo;Vendedor 3;Brasil;12;Time 1;427231.32
+Cliente 84;2020-1970;Produtos;19/04/2021;Renovação;Vendedor 30;Brasil;12;Time 1;515446.83
+Cliente 85;2019-1857;Serviços;02/01/2020;Novo Logo;Vendedor 16;Brasil;6;Time 3;320243.62
+Cliente 86;2020-3115;Produtos;11/01/2020;Novo Logo;Vendedor 17;Brasil;24;Time 8;2257.5
+Cliente 87;2020-3114;Produtos;15/01/2020;Novo Logo;Vendedor 17;Brasil;24;Time 8;6772.5
+Cliente 88;2019-1272;Licenciamento;29/01/2020;Novo Logo;Vendedor 3;Brasil;24;Time 1;2016870.8
+Cliente 89;2020-2073;Produtos;31/01/2020;Novo Logo;Vendedor 7;USA;37;Time 5;24970500.0
+Cliente 89;2020-2246;Produtos;02/04/2020;Upselling;Vendedor 7;USA;1;Time 5;142456.17
+Cliente 89;2020-2244;Produtos;02/04/2020;Upselling;Vendedor 7;USA;1;Time 5;1035205.24
+Cliente 89;2020-2248;Produtos;01/05/2020;Upselling;Vendedor 7;USA;1;Time 5;2122164.45
+Cliente 89;2020-2327;Produtos;02/06/2020;Upselling;Vendedor 7;USA;1;Time 5;1947564.75
+Cliente 9;2018-0042;Serviços;07/02/2018;Upselling;Vendedor 4;Brasil;1;Time 2;17387.82
+Cliente 9;2018-0039;Licenciamento;07/02/2018;Cross selling;Vendedor 4;Brasil;12;Time 2;310811.66
+Cliente 9;2017-0112;Produtos;20/03/2018;Renovação;Vendedor 4;Brasil;12;Time 2;453692.88
+Cliente 9;2018-0136;Serviços;29/05/2018;Upselling;Vendedor 4;Brasil;2;Time 2;51200.0
+Cliente 9;2019-0699;Produtos;11/01/2019;Renovação;Vendedor 10;Brasil;3;Time 7;113423.22
+Cliente 9;2019-0888;Serviços;28/03/2019;Upselling;Vendedor 10;Brasil;1;Time 7;14634.0
+Cliente 9;2019-0856;Produtos;16/04/2019;Renovação;Vendedor 10;Brasil;3;Time 7;113423.22
+Cliente 9;2019-1125;Produtos;18/06/2019;Renovação;Vendedor 10;Brasil;6;Time 7;226846.44
+Cliente 9;2020-2143;Serviços;30/03/2020;Cross selling;Vendedor 10;Brasil;3;Time 3;198579.09
+Cliente 9;2019-1667;Licenciamento;30/03/2020;Cross selling;Vendedor 10;Brasil;12;Time 3;1021350.0
+Cliente 9;2020-2091;Licenciamento;13/04/2020;Cross selling;Vendedor 10;Brasil;1;Time 3;118419.24
+Cliente 9;2020-2111;Licenciamento;13/04/2020;Cross selling;Vendedor 10;Brasil;1;Time 3;236434.08
+Cliente 9;2020-2086;Licenciamento;24/04/2020;Cross selling;Vendedor 10;Brasil;12;Time 3;215632.0
+Cliente 9;2019-0700;Licenciamento;30/04/2020;Cross selling;Vendedor 10;Brasil;1;Time 3;195240.0
+Cliente 9;2020-2417;Licenciamento;30/06/2020;Cross selling;Vendedor 13;Brasil;12;Time 3;180261.64
+Cliente 9;2020-3096;Produtos;10/12/2020;Upselling;Vendedor 13;Brasil;36;Time 3;2571006.08
+Cliente 9;2021-3265;Licenciamento;18/03/2021;Renovação;Vendedor 13;Brasil;12;Time 3;777822.91
+Cliente 90;2020-1979;Serviços;05/02/2020;Novo Logo;Vendedor 1;Brasil;2;Time 1;28731.1
+Cliente 91;2019-1588;Serviços;19/02/2020;Novo Logo;Vendedor 14;Brasil;1;Time 3;12100.0
+Cliente 91;2020-2282;Serviços;17/04/2020;Upselling;Vendedor 14;Brasil;1;Time 3;5976.6
+Cliente 92;2019-1660;Serviços;28/02/2020;Novo Logo;Vendedor 16;Brasil;3;Time 3;91200.0
+Cliente 92;2019-1891;Serviços;27/05/2020;Renovação;Vendedor 16;Brasil;7;Time 3;212800.0
+Cliente 93;2019-1756;Serviços;16/03/2020;Novo Logo;Vendedor 16;Brasil;6;Time 3;377040.2
+Cliente 93;2020-2443;Serviços;30/10/2020;Upselling;Vendedor 16;Brasil;4;Time 3;148134.72
+Cliente 94;2020-2170;Serviços;31/03/2020;Novo Logo;Vendedor 7;Brasil;3;Time 5;28500.0
+Cliente 94;2020-2169;Produtos;31/03/2020;Novo Logo;Vendedor 7;Brasil;62;Time 5;1438500.0
+Cliente 94;2020-2366;Produtos;31/07/2020;Cross selling;Vendedor 7;Brasil;32;Time 5;120000.0
+Cliente 94;2020-2604;Produtos;03/09/2020;Cross selling;Vendedor 7;Brasil;61;Time 5;50000.0
+Cliente 94;2020-2603;Produtos;22/09/2020;Cross selling;Vendedor 7;Brasil;61;Time 5;1320000.0
+Cliente 94;2021-3417;Serviços;04/02/2021;Upselling;Vendedor 7;Brasil;24;Time 5;432000.0
+Cliente 95;2020-2177;Produtos;20/04/2020;Novo Logo;Vendedor 19;Brasil;1;Time 3;107424.0
+Cliente 96;2020-2294;Serviços;30/04/2020;Novo Logo;Vendedor 1;Brasil;2;Time 1;207802.2
+Cliente 96;2020-2954;Serviços;30/10/2020;Cross selling;Vendedor 1;Brasil;14;Time 1;227000.0
+Cliente 96;2020-2928;Serviços;30/10/2020;Cross selling;Vendedor 1;Brasil;14;Time 1;273000.0
+Cliente 96;2021-3613;Produtos;15/03/2021;Upselling;Vendedor 13;Brasil;24;Time 3;120964.32
+Cliente 97;2020-2164;Produtos;07/05/2020;Novo Logo;Vendedor 19;Brasil;39;Time 3;281880.0
+Cliente 98;2020-2285;Produtos;11/05/2020;Novo Logo;Vendedor 19;Brasil;12;Time 3;720000.0
+Cliente 99;2020-2088;Licenciamento;12/05/2020;Novo Logo;Vendedor 9;Brasil;12;Time 3;296498.85
